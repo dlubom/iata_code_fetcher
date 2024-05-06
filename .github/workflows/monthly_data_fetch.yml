@@ -1,0 +1,45 @@
+name: Monthly Data Fetch
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Runs at 00:00 on the first day of every month
+  workflow_dispatch:  # Allows for manual triggering of the workflow
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install Poetry
+      run: |
+        pip install poetry
+
+    - name: Install dependencies
+      run: poetry install
+
+    - name: Run data fetcher script
+      run: poetry run python iata_code_fetcher/fetcher.py
+
+    - name: Sort and remove duplicates
+      run: |
+        cat iata_code_fetcher/carrier_data_full.jsonl | sort | uniq > iata_code_fetcher/carrier_data_full_unique.jsonl
+        cat iata_code_fetcher/airport_data_full.jsonl | sort | uniq > iata_code_fetcher/airport_data_full_unique.jsonl  
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add iata_code_fetcher/carrier_data_full_unique.jsonl iata_code_fetcher/airport_data_full_unique.jsonl
+        git commit -m 'Update unique data files [skip ci]'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

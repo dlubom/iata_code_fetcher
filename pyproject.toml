@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "iata-code-fetcher"
+version = "0.1.0"
+description = "A Python project to scrape and process airline and airport code data from IATA's website using requests and BeautifulSoup4. The project saves data in JSONL format."
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31.0"
+bs4 = "^0.0.2"
+pylint = "^3.1.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
