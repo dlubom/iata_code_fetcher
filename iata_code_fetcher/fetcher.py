@@ -73,7 +73,7 @@ def fetch_and_process_data(code: str, code_type: CodeType) -> List[Dict[str, str
             table = soup.find("table", {"class": "datatable"})
 
             if not table:
-                raise ValueError("No table found or error in response")
+                raise ValueError("No record found")
 
             headers = [th.text.strip() for th in table.find_all("td")]
             rows = []
