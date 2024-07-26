@@ -52,4 +52,6 @@ cat airport_data_full.jsonl | sort | uniq > airport_data_full_unique.jsonl
 ```
 
 ## Notes
-Make sure to comply with IATA's terms of service regarding the use of data fetched from their site.
+- Make sure to comply with IATA's terms of service regarding the use of data fetched from their site.
+- The codes marked with an asterisk * refer to “Controlled Duplicate” where two carriers have the same code but operate different types of non-overlapping services. Example: "BB*"
+- Check also [List of IATA-indexed railway stations](https://en.wikipedia.org/wiki/List_of_IATA-indexed_railway_stations).
