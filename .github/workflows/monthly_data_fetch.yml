@@ -30,8 +30,8 @@ jobs:
 
     - name: Sort and remove duplicates
       run: |
-        poetry run python iata_code_fetcher/process_airport.py airport_data_full.jsonl
-        poetry run python iata_code_fetcher/process_carrier.py carrier_data_full.jsonl
+        poetry run python iata_code_fetcher/process.py air airport_data_full.jsonl
+        poetry run python iata_code_fetcher/process.py carrier carrier_data_full.jsonl
 
     - name: Commit changes
       run: |
