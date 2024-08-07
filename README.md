@@ -44,11 +44,11 @@ Output files will be generated in the `iata_code_fetcher` directory:
 
 Each line in the `.jsonl` file represents a JSON object containing data for one carrier or airport. 
 
-Note that these files may contain duplicate entries. To remove duplicates, you can use the following command in a Unix-like shell:
+Note that these files may contain duplicate entries. To remove duplicates, you can use the following command:
 
 ```bash
-cat carrier_data_full.jsonl | sort | uniq > carrier_data_full_unique.jsonl
-cat airport_data_full.jsonl | sort | uniq > airport_data_full_unique.jsonl
+poetry run python iata_code_fetcher/process.py air airport_data_full.jsonl
+poetry run python iata_code_fetcher/process.py carrier carrier_data_full.jsonl
 ```
 
 ## Notes
