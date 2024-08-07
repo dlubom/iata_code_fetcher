@@ -1,9 +1,22 @@
-import polars as pl
+"""
+Module for processing airport and carrier data from JSONL files.
+"""
+
 import sys
 import os
+import polars as pl
 
 
 def process_airport_data(file_path):
+    """
+    Process airport data from a JSONL file.
+
+    Args:
+        file_path (str): Path to the JSONL file containing airport data.
+
+    Returns:
+        polars.DataFrame: Processed airport data.
+    """
     df = pl.read_ndjson(file_path)
 
     df_deduplicated = df.unique()
@@ -18,6 +31,15 @@ def process_airport_data(file_path):
 
 
 def process_carrier_data(file_path):
+    """
+    Process carrier data from a JSONL file.
+
+    Args:
+        file_path (str): Path to the JSONL file containing carrier data.
+
+    Returns:
+        polars.DataFrame: Processed carrier data.
+    """
     df = pl.read_ndjson(file_path)
 
     df_deduplicated = df.unique()
@@ -36,6 +58,9 @@ def process_carrier_data(file_path):
 
 
 def main():
+    """
+    Main function to process the JSONL file based on the given mode (air or carrier).
+    """
     if len(sys.argv) != 3:
         print("Usage: python script.py <air|carrier> <path_to_jsonl_file>")
         sys.exit(1)
