@@ -25,7 +25,7 @@ def process_airport_data(file_path):
         {"3-letter location code": "iata", "City Name": "city_name", "Airport Name": "airport_name"}
     )
 
-    result = result.sort(["iata", "city_name"])
+    result = result.sort(["iata", "city_name", "airport_name"])
 
     return result
 
@@ -52,7 +52,7 @@ def process_carrier_data(file_path):
         }
     )
 
-    result = result.sort(["iata", "country_or_territory"])
+    result = result.sort(["iata", "country_or_territory", "company_name"])
 
     return result
 

@@ -86,13 +86,13 @@
 {"city_name":"Amman","airport_name":"Marka Intl","iata":"ADJ"}
 {"city_name":"Adak Island","airport_name":"Adak Island Airport","iata":"ADK"}
 {"city_name":"Adelaide","airport_name":"Adelaide Intl.","iata":"ADL"}
-{"city_name":"Ardmore","airport_name":"Metropolitan Area","iata":"ADM"}
 {"city_name":"Ardmore","airport_name":"Ardmore Municipal","iata":"ADM"}
+{"city_name":"Ardmore","airport_name":"Metropolitan Area","iata":"ADM"}
 {"city_name":"Andes","airport_name":"Andes Airport","iata":"ADN"}
 {"city_name":"Andamooka","airport_name":"Andamooka Airport","iata":"ADO"}
 {"city_name":"Ampara","airport_name":"Gal Oya","iata":"ADP"}
-{"city_name":"Kodiak","airport_name":"Metropolitan Area","iata":"ADQ"}
 {"city_name":"Kodiak","airport_name":"Kodiak Airport","iata":"ADQ"}
+{"city_name":"Kodiak","airport_name":"Metropolitan Area","iata":"ADQ"}
 {"city_name":"Andrews","airport_name":"Robert F. Swinnie","iata":"ADR"}
 {"city_name":"Dallas","airport_name":"Addison","iata":"ADS"}
 {"city_name":"Ada","airport_name":"Ada Municipal","iata":"ADT"}
@@ -117,8 +117,8 @@
 {"city_name":"Alesund","airport_name":"Vigra","iata":"AES"}
 {"city_name":"Allakaket","airport_name":"Allakaket Airport","iata":"AET"}
 {"city_name":"Abu Musa Island","airport_name":"Abu Musa Island Airport","iata":"AEU"}
-{"city_name":"Alexandria","airport_name":"Metropolitan Area","iata":"AEX"}
 {"city_name":"Alexandria","airport_name":"Alexandria Intl.","iata":"AEX"}
+{"city_name":"Alexandria","airport_name":"Metropolitan Area","iata":"AEX"}
 {"city_name":"Akureyri","airport_name":"Akureyri Airport","iata":"AEY"}
 {"city_name":"San Rafael","airport_name":"San Rafael","iata":"AFA"}
 {"city_name":"Port Alfred","airport_name":"Port Alfred Airport","iata":"AFD"}
@@ -151,8 +151,8 @@
 {"city_name":"Malaga","airport_name":"Malaga Airport","iata":"AGP"}
 {"city_name":"Agrinion","airport_name":"G.Karaiskakis","iata":"AGQ"}
 {"city_name":"Agra","airport_name":"Agra Airport","iata":"AGR"}
-{"city_name":"Augusta","airport_name":"Regional (Bush Field)","iata":"AGS"}
 {"city_name":"Augusta","airport_name":"Metropolitan Area","iata":"AGS"}
+{"city_name":"Augusta","airport_name":"Regional (Bush Field)","iata":"AGS"}
 {"city_name":"Ciudad del Este","airport_name":"Guarani Intl","iata":"AGT"}
 {"city_name":"Aguascalientes","airport_name":"Jesus Teran Peredo Int","iata":"AGU"}
 {"city_name":"Acarigua","airport_name":"Oswaldo Guevara Mujica","iata":"AGV"}
@@ -292,16 +292,16 @@
 {"city_name":"Ardmore","airport_name":"Ardmore Airport","iata":"AMZ"}
 {"city_name":"Maasai Mara","airport_name":"Angama","iata":"ANA"}
 {"city_name":"Anniston","airport_name":"Anniston Reg. Airport","iata":"ANB"}
-{"city_name":"Anchorage","airport_name":"Ted Stevens Intl","iata":"ANC"}
 {"city_name":"Anchorage","airport_name":"Metropolitan Area","iata":"ANC"}
+{"city_name":"Anchorage","airport_name":"Ted Stevens Intl","iata":"ANC"}
 {"city_name":"Anderson","airport_name":"Anderson Reg. Airport","iata":"AND"}
 {"city_name":"Angers","airport_name":"Marce","iata":"ANE"}
 {"city_name":"Antofagasta","airport_name":"Cerro Moreno","iata":"ANF"}
 {"city_name":"Angouleme","airport_name":"Brie-Champniers","iata":"ANG"}
 {"city_name":"Aniak","airport_name":"Aniak Airport","iata":"ANI"}
 {"city_name":"Zanaga","airport_name":"Zanaga Airport","iata":"ANJ"}
-{"city_name":"Ankara","airport_name":"Metropolitan Area","iata":"ANK"}
 {"city_name":"Ankara","airport_name":"Etimesgut","iata":"ANK"}
+{"city_name":"Ankara","airport_name":"Metropolitan Area","iata":"ANK"}
 {"city_name":"Andulo","airport_name":"Andulo Airport","iata":"ANL"}
 {"city_name":"Antalaha","airport_name":"Antsirabato","iata":"ANM"}
 {"city_name":"Annette Island","airport_name":"Annette Island Airport","iata":"ANN"}
@@ -467,8 +467,8 @@
 {"city_name":"Agaun","airport_name":"Agaun Airport","iata":"AUP"}
 {"city_name":"Hiva Oa","airport_name":"Atuona","iata":"AUQ"}
 {"city_name":"Aurillac","airport_name":"Aurillac Airport","iata":"AUR"}
-{"city_name":"Austin","airport_name":"Metropolitan Area","iata":"AUS"}
 {"city_name":"Austin","airport_name":"Austin-Bergstrom Intl","iata":"AUS"}
+{"city_name":"Austin","airport_name":"Metropolitan Area","iata":"AUS"}
 {"city_name":"Atauro","airport_name":"Atauro Airport","iata":"AUT"}
 {"city_name":"Aurukun","airport_name":"Aurukun Airport","iata":"AUU"}
 {"city_name":"Aumo","airport_name":"Aumo Airport","iata":"AUV"}
@@ -674,11 +674,11 @@
 {"city_name":"Newcastle","airport_name":"Aeropelican","iata":"BEO"}
 {"city_name":"Bellary","airport_name":"Bellary Airport","iata":"BEP"}
 {"city_name":"Bury St Edmunds","airport_name":"Honington RAF","iata":"BEQ"}
-{"city_name":"Berlin","airport_name":"Metropolitan Area","iata":"BER"}
 {"city_name":"Berlin","airport_name":"Brandenburg","iata":"BER"}
+{"city_name":"Berlin","airport_name":"Metropolitan Area","iata":"BER"}
 {"city_name":"Brest","airport_name":"Bretagne","iata":"BES"}
-{"city_name":"Bethel","airport_name":"Metropolitan Area","iata":"BET"}
 {"city_name":"Bethel","airport_name":"Bethel Airport","iata":"BET"}
+{"city_name":"Bethel","airport_name":"Metropolitan Area","iata":"BET"}
 {"city_name":"Bedourie","airport_name":"Bedourie Airport","iata":"BEU"}
 {"city_name":"Beersheba","airport_name":"Beersheba Airport","iata":"BEV"}
 {"city_name":"Beira","airport_name":"Beira Airport","iata":"BEW"}
@@ -956,8 +956,8 @@
 {"city_name":"Hyderabad","airport_name":"Begumpet","iata":"BPM"}
 {"city_name":"Balikpapan","airport_name":"Sepinggan","iata":"BPN"}
 {"city_name":"Porto Seguro","airport_name":"Porto Seguro Airport","iata":"BPS"}
-{"city_name":"Beaumont/Port Arthur","airport_name":"Metropolitan Area","iata":"BPT"}
 {"city_name":"Beaumont/Port Arthur","airport_name":"Jack Brooks Regional","iata":"BPT"}
+{"city_name":"Beaumont/Port Arthur","airport_name":"Metropolitan Area","iata":"BPT"}
 {"city_name":"Qamdo/Changdu","airport_name":"Bamda/Bangda","iata":"BPX"}
 {"city_name":"Besalampy","airport_name":"Besalampy Airport","iata":"BPY"}
 {"city_name":"Baler","airport_name":"Dr. Juan C. Angara","iata":"BQA"}
@@ -1108,8 +1108,8 @@
 {"city_name":"Barrow-in-Furness","airport_name":"Walney Island","iata":"BWF"}
 {"city_name":"Bowling Green","airport_name":"Warren County Regional","iata":"BWG"}
 {"city_name":"Butterworth","airport_name":"Butterworth Airport","iata":"BWH"}
-{"city_name":"Baltimore","airport_name":"Metropolitan Area","iata":"BWI"}
 {"city_name":"Baltimore","airport_name":"Baltimore/Wash. Intl","iata":"BWI"}
+{"city_name":"Baltimore","airport_name":"Metropolitan Area","iata":"BWI"}
 {"city_name":"Washington","airport_name":"Baltimore/Wash. Intl","iata":"BWI"}
 {"city_name":"Bawan","airport_name":"Bawan Airport","iata":"BWJ"}
 {"city_name":"Brac","airport_name":"Bol","iata":"BWK"}
@@ -1175,8 +1175,8 @@
 {"city_name":"Bazaruto Island","airport_name":"Bazaruto Island Airport","iata":"BZB"}
 {"city_name":"Buzios","airport_name":"Umberto Modiano","iata":"BZC"}
 {"city_name":"Balranald","airport_name":"Balranald Airport","iata":"BZD"}
-{"city_name":"Belize City","airport_name":"Philip S.W.Goldson Int","iata":"BZE"}
 {"city_name":"Belize City","airport_name":"Metropolitan Area","iata":"BZE"}
+{"city_name":"Belize City","airport_name":"Philip S.W.Goldson Int","iata":"BZE"}
 {"city_name":"Redding","airport_name":"Benton Field","iata":"BZF"}
 {"city_name":"Bydgoszcz","airport_name":"Ignacy Jan Paderewski","iata":"BZG"}
 {"city_name":"Bumi Hills","airport_name":"Bumi Hills Airport","iata":"BZH"}
@@ -1449,8 +1449,8 @@
 {"city_name":"Canakkale","airport_name":"Canakkale Airport","iata":"CKZ"}
 {"city_name":"Comilla","airport_name":"Comilla Airport","iata":"CLA"}
 {"city_name":"San Diego","airport_name":"McClellan-Palomar","iata":"CLD"}
-{"city_name":"Cleveland","airport_name":"Metropolitan Area","iata":"CLE"}
 {"city_name":"Cleveland","airport_name":"Hopkins International","iata":"CLE"}
+{"city_name":"Cleveland","airport_name":"Metropolitan Area","iata":"CLE"}
 {"city_name":"Coalinga","airport_name":"Coalinga Municipal","iata":"CLG"}
 {"city_name":"Coolah","airport_name":"Coolah Airport","iata":"CLH"}
 {"city_name":"Clintonville","airport_name":"Clintonville Municipal","iata":"CLI"}
@@ -1595,8 +1595,8 @@
 {"city_name":"Brussels","airport_name":"Brussels S. Charleroi","iata":"CRL"}
 {"city_name":"Catarman","airport_name":"National","iata":"CRM"}
 {"city_name":"Corcoran","airport_name":"Corcoran Airport","iata":"CRO"}
-{"city_name":"Corpus Christi","airport_name":"Metropolitan Area","iata":"CRP"}
 {"city_name":"Corpus Christi","airport_name":"Corpus Christi Intl.","iata":"CRP"}
+{"city_name":"Corpus Christi","airport_name":"Metropolitan Area","iata":"CRP"}
 {"city_name":"Caravelas","airport_name":"Caravelas Airport","iata":"CRQ"}
 {"city_name":"Ceres","airport_name":"Ceres Airport","iata":"CRR"}
 {"city_name":"Corsicana","airport_name":"C. David Campbell Fld","iata":"CRS"}
@@ -1739,8 +1739,8 @@
 {"city_name":"Cayo Largo del Sur","airport_name":"Vilo Acuna Intl","iata":"CYO"}
 {"city_name":"Calbayog","airport_name":"Calbayog Airport","iata":"CYP"}
 {"city_name":"Colonia del Sacramento","airport_name":"Laguna de los Patos","iata":"CYR"}
-{"city_name":"Cheyenne","airport_name":"Metropolitan Area","iata":"CYS"}
 {"city_name":"Cheyenne","airport_name":"Cheyenne Reg. Airport","iata":"CYS"}
+{"city_name":"Cheyenne","airport_name":"Metropolitan Area","iata":"CYS"}
 {"city_name":"Yakataga","airport_name":"Yakataga Airport","iata":"CYT"}
 {"city_name":"Cuyo","airport_name":"Cuyo Airport","iata":"CYU"}
 {"city_name":"Celaya","airport_name":"Capt. Rogelio Castillo","iata":"CYW"}
@@ -1785,8 +1785,8 @@
 {"city_name":"Daru","airport_name":"Daru Airport","iata":"DAU"}
 {"city_name":"David","airport_name":"Enrique Malek Intl","iata":"DAV"}
 {"city_name":"Dazhou","airport_name":"Heshi","iata":"DAX"}
-{"city_name":"Dayton","airport_name":"Metropolitan Area","iata":"DAY"}
 {"city_name":"Dayton","airport_name":"James M. Cox Intl","iata":"DAY"}
+{"city_name":"Dayton","airport_name":"Metropolitan Area","iata":"DAY"}
 {"city_name":"Darwaz","airport_name":"Darwaz Airport","iata":"DAZ"}
 {"city_name":"Dalbandin","airport_name":"Dalbandin Airport","iata":"DBA"}
 {"city_name":"Dabah","airport_name":"Al Alamain Intl","iata":"DBB"}
@@ -1831,8 +1831,8 @@
 {"city_name":"Denis Island","airport_name":"Denis Island Airport","iata":"DEI"}
 {"city_name":"Delhi","airport_name":"Indira Gandhi Intl","iata":"DEL"}
 {"city_name":"Dembi Dolo","airport_name":"Dembi Dolo Airport","iata":"DEM"}
-{"city_name":"Denver","airport_name":"Metropolitan Area","iata":"DEN"}
 {"city_name":"Denver","airport_name":"Denver Intl.","iata":"DEN"}
+{"city_name":"Denver","airport_name":"Metropolitan Area","iata":"DEN"}
 {"city_name":"Deparijo","airport_name":"Deparijo Airport","iata":"DEP"}
 {"city_name":"Huzhou","airport_name":"Deqing Moganshan Gen.","iata":"DEQ"}
 {"city_name":"Derim","airport_name":"Derim Airport","iata":"DER"}
@@ -1843,8 +1843,8 @@
 {"city_name":"Shangluo","airport_name":"Danfeng Shangzhen Gen.","iata":"DFA"}
 {"city_name":"Defiance","airport_name":"Memorial","iata":"DFI"}
 {"city_name":"Drumduff","airport_name":"Drumduff Airport","iata":"DFP"}
-{"city_name":"Dallas","airport_name":"Metropolitan Area","iata":"DFW"}
 {"city_name":"Dallas","airport_name":"Dallas/Ft Worth Intl","iata":"DFW"}
+{"city_name":"Dallas","airport_name":"Metropolitan Area","iata":"DFW"}
 {"city_name":"Fort Worth","airport_name":"Dallas/Ft Worth Intl","iata":"DFW"}
 {"city_name":"Dangriga","airport_name":"Dangriga Airport","iata":"DGA"}
 {"city_name":"Degeh Bur","airport_name":"Degeh Bur Airport","iata":"DGC"}
@@ -1904,8 +1904,8 @@
 {"city_name":"Katsina","airport_name":"Katsina Airport","iata":"DKA"}
 {"city_name":"Dunk Island","airport_name":"Dunk Island Airport","iata":"DKI"}
 {"city_name":"Dunkirk","airport_name":"Chautauqua County","iata":"DKK"}
-{"city_name":"Dakar","airport_name":"Metropolitan Area","iata":"DKR"}
 {"city_name":"Dakar","airport_name":"Leopold Sedar Senghor","iata":"DKR"}
+{"city_name":"Dakar","airport_name":"Metropolitan Area","iata":"DKR"}
 {"city_name":"Dikson","airport_name":"Dikson Airport","iata":"DKS"}
 {"city_name":"Docker River","airport_name":"Docker River Airport","iata":"DKV"}
 {"city_name":"Douala","airport_name":"Douala Intl.","iata":"DLA"}
@@ -1967,8 +1967,8 @@
 {"city_name":"Doini Island","airport_name":"Doini Island Airport","iata":"DOI"}
 {"city_name":"Donetsk","airport_name":"Donetsk Intl.","iata":"DOK"}
 {"city_name":"Deauville","airport_name":"St Gatien","iata":"DOL"}
-{"city_name":"Dominica","airport_name":"Metropolitan Area","iata":"DOM"}
 {"city_name":"Dominica","airport_name":"Melville Hall","iata":"DOM"}
+{"city_name":"Dominica","airport_name":"Metropolitan Area","iata":"DOM"}
 {"city_name":"Dos Lagunas","airport_name":"Dos Lagunas Airport","iata":"DON"}
 {"city_name":"Dorobisoro","airport_name":"Dorobisoro Airport","iata":"DOO"}
 {"city_name":"Dolpa","airport_name":"Dolpa Airport","iata":"DOP"}
@@ -2001,13 +2001,13 @@
 {"city_name":"Drietabbetje","airport_name":"Drietabbetje Airport","iata":"DRJ"}
 {"city_name":"Drake Bay","airport_name":"Drake Bay Airport","iata":"DRK"}
 {"city_name":"Dirranbandi","airport_name":"Dirranbandi Airport","iata":"DRN"}
-{"city_name":"Durango","airport_name":"Metropolitan Area","iata":"DRO"}
 {"city_name":"Durango","airport_name":"La Plata County","iata":"DRO"}
+{"city_name":"Durango","airport_name":"Metropolitan Area","iata":"DRO"}
 {"city_name":"Daraga","airport_name":"Bicol","iata":"DRP"}
 {"city_name":"Durrie","airport_name":"Durrie Airport","iata":"DRR"}
 {"city_name":"Dresden","airport_name":"Dresden Airport","iata":"DRS"}
-{"city_name":"Del Rio","airport_name":"Metropolitan Area","iata":"DRT"}
 {"city_name":"Del Rio","airport_name":"Del Rio Intl.","iata":"DRT"}
+{"city_name":"Del Rio","airport_name":"Metropolitan Area","iata":"DRT"}
 {"city_name":"Drummond","airport_name":"Drummond Airport","iata":"DRU"}
 {"city_name":"Dharavandhoo Island","airport_name":"Dharavandhoo Island Airport","iata":"DRV"}
 {"city_name":"Darwin","airport_name":"Darwin Intl.","iata":"DRW"}
@@ -2046,16 +2046,16 @@
 {"city_name":"Dunedin","airport_name":"Dunedin Intl.","iata":"DUD"}
 {"city_name":"Dundo","airport_name":"Dundo Airport","iata":"DUE"}
 {"city_name":"Corolla","airport_name":"Pine Island","iata":"DUF"}
-{"city_name":"Douglas/Bisbee","airport_name":"Metropolitan Area","iata":"DUG"}
 {"city_name":"Douglas/Bisbee","airport_name":"Bisbee-Douglas Intl","iata":"DUG"}
+{"city_name":"Douglas/Bisbee","airport_name":"Metropolitan Area","iata":"DUG"}
 {"city_name":"DuBois","airport_name":"DuBois Reg. Airport","iata":"DUJ"}
 {"city_name":"Mtubatuba","airport_name":"Dukuduku","iata":"DUK"}
 {"city_name":"Dumai","airport_name":"Pinang Kampai","iata":"DUM"}
 {"city_name":"Duncan","airport_name":"Duncan Airport","iata":"DUQ"}
 {"city_name":"Durban","airport_name":"King Shaka Intl","iata":"DUR"}
 {"city_name":"Durban","airport_name":"Metropolitan Area","iata":"DUR"}
-{"city_name":"Duesseldorf","airport_name":"Metropolitan Area","iata":"DUS"}
 {"city_name":"Duesseldorf","airport_name":"Duesseldorf Airport","iata":"DUS"}
+{"city_name":"Duesseldorf","airport_name":"Metropolitan Area","iata":"DUS"}
 {"city_name":"Dutch Harbor","airport_name":"Driftwood Bay AFS","iata":"DUT"}
 {"city_name":"Andavadoaka","airport_name":"Andavadoaka Airport","iata":"DVD"}
 {"city_name":"Diavik","airport_name":"Diavik Airport","iata":"DVK"}
@@ -2073,8 +2073,8 @@
 {"city_name":"Kotte","airport_name":"Diyawanna Oya SPB","iata":"DWO"}
 {"city_name":"Dwyer","airport_name":"Air Base","iata":"DWR"}
 {"city_name":"Hulunbuir","airport_name":"Morin Dawa Banner","iata":"DWS"}
-{"city_name":"Dubai","airport_name":"Metropolitan Area","iata":"DXB"}
 {"city_name":"Dubai","airport_name":"Dubai Intl.","iata":"DXB"}
+{"city_name":"Dubai","airport_name":"Metropolitan Area","iata":"DXB"}
 {"city_name":"Dixie","airport_name":"Dixie Airport","iata":"DXD"}
 {"city_name":"Madison","airport_name":"Bruce Campbell Field","iata":"DXE"}
 {"city_name":"Biancheng","airport_name":"Xiangxi Biancheng","iata":"DXJ"}
@@ -2372,8 +2372,8 @@
 {"city_name":"Freida River","airport_name":"Freida River Airport","iata":"FAQ"}
 {"city_name":"Fargo","airport_name":"Hector Intl","iata":"FAR"}
 {"city_name":"Faskrudsfjordur","airport_name":"Faskrudsfjordur Airport","iata":"FAS"}
-{"city_name":"Fresno","airport_name":"Yosemite Intl","iata":"FAT"}
 {"city_name":"Fresno","airport_name":"Metropolitan Area","iata":"FAT"}
+{"city_name":"Fresno","airport_name":"Yosemite Intl","iata":"FAT"}
 {"city_name":"Fahud","airport_name":"Fahud Airport","iata":"FAU"}
 {"city_name":"Fakarava","airport_name":"Fakarava Airport","iata":"FAV"}
 {"city_name":"Fayetteville","airport_name":"Regional (Grannis Fld)","iata":"FAY"}
@@ -2429,8 +2429,8 @@
 {"city_name":"Fishers Island","airport_name":"Elizabeth Field","iata":"FID"}
 {"city_name":"Fair Isle","airport_name":"Fair Isle Airport","iata":"FIE"}
 {"city_name":"Fria","airport_name":"Katourou","iata":"FIG"}
-{"city_name":"Kinshasa","airport_name":"N'djili Intl","iata":"FIH"}
 {"city_name":"Kinshasa","airport_name":"Metropolitan Area","iata":"FIH"}
+{"city_name":"Kinshasa","airport_name":"N'djili Intl","iata":"FIH"}
 {"city_name":"Finke","airport_name":"Finke Airport","iata":"FIK"}
 {"city_name":"Fillmore","airport_name":"Fillmore Municipal","iata":"FIL"}
 {"city_name":"Finschhafen","airport_name":"Finschhafen Airport","iata":"FIN"}
@@ -2450,8 +2450,8 @@
 {"city_name":"Grand Canyon","airport_name":"Flagstaff Pulliam","iata":"FLG"}
 {"city_name":"Flotta","airport_name":"Flotta Airport","iata":"FLH"}
 {"city_name":"Flateyri","airport_name":"Holt","iata":"FLI"}
-{"city_name":"Fort Lauderdale","airport_name":"Metropolitan Area","iata":"FLL"}
 {"city_name":"Fort Lauderdale","airport_name":"Fort Lauderdale Intl.","iata":"FLL"}
+{"city_name":"Fort Lauderdale","airport_name":"Metropolitan Area","iata":"FLL"}
 {"city_name":"Filadelfia","airport_name":"Filadelfia Airport","iata":"FLM"}
 {"city_name":"Florianopolis","airport_name":"Hercilio Luz Intl","iata":"FLN"}
 {"city_name":"Florence","airport_name":"Florence Reg. Airport","iata":"FLO"}
@@ -2474,8 +2474,8 @@
 {"city_name":"Fort Madison","airport_name":"Fort Madison Municipal","iata":"FMS"}
 {"city_name":"Faresmathoda","airport_name":"Faresmathoda Airport","iata":"FMT"}
 {"city_name":"Florence","airport_name":"Florence Municipal","iata":"FMU"}
-{"city_name":"Fort Myers","airport_name":"Page Field","iata":"FMY"}
 {"city_name":"Fort Myers","airport_name":"Metropolitan Area","iata":"FMY"}
+{"city_name":"Fort Myers","airport_name":"Page Field","iata":"FMY"}
 {"city_name":"Freetown","airport_name":"Lungi International","iata":"FNA"}
 {"city_name":"Freetown","airport_name":"Metropolitan Area","iata":"FNA"}
 {"city_name":"Neubrandenburg","airport_name":"Trollenhagen","iata":"FNB"}
@@ -2563,8 +2563,8 @@
 {"city_name":"Flora Valley","airport_name":"Flora Valley Airport","iata":"FVL"}
 {"city_name":"Fuvahmulak Island","airport_name":"Fuvahmulak Island Airport","iata":"FVM"}
 {"city_name":"Forrest River Mission","airport_name":"Forrest River Mission Airport","iata":"FVR"}
-{"city_name":"Fort Wayne","airport_name":"Metropolitan Area","iata":"FWA"}
 {"city_name":"Fort Wayne","airport_name":"Fort Wayne Intl.","iata":"FWA"}
+{"city_name":"Fort Wayne","airport_name":"Metropolitan Area","iata":"FWA"}
 {"city_name":"Fort Worth","airport_name":"NAS JRB","iata":"FWH"}
 {"city_name":"Farewell","airport_name":"Farewell Airport","iata":"FWL"}
 {"city_name":"Fort Lauderdale","airport_name":"Executive","iata":"FXE"}
@@ -2575,8 +2575,8 @@
 {"city_name":"Fuyun","airport_name":"Fuyun Airport","iata":"FYN"}
 {"city_name":"Faya-Largeau","airport_name":"Faya-Largeau Airport","iata":"FYT"}
 {"city_name":"Fort Yukon","airport_name":"Fort Yukon Airport","iata":"FYU"}
-{"city_name":"Fayetteville/Springd.","airport_name":"Metropolitan Area","iata":"FYV"}
 {"city_name":"Fayetteville/Springd.","airport_name":"Drake Field","iata":"FYV"}
+{"city_name":"Fayetteville/Springd.","airport_name":"Metropolitan Area","iata":"FYV"}
 {"city_name":"Fuzuli","airport_name":"FUZULI INTERNATIONAL","iata":"FZL"}
 {"city_name":"Filton","airport_name":"Filton Airport","iata":"FZO"}
 {"city_name":"Guamal","airport_name":"Guamal Airport","iata":"GAA"}
@@ -2632,8 +2632,8 @@
 {"city_name":"Johannesburg","airport_name":"Grand Central","iata":"GCJ"}
 {"city_name":"Garden City","airport_name":"Garden City Reg. Airport","iata":"GCK"}
 {"city_name":"Grand Cayman","airport_name":"Owen Roberts Intl","iata":"GCM"}
-{"city_name":"Grand Canyon","airport_name":"National Park","iata":"GCN"}
 {"city_name":"Grand Canyon","airport_name":"Metropolitan Area","iata":"GCN"}
+{"city_name":"Grand Canyon","airport_name":"National Park","iata":"GCN"}
 {"city_name":"Grand Canyon","airport_name":"Bar Ten Ranch","iata":"GCT"}
 {"city_name":"Grand Canyon West","airport_name":"Grand Canyon West Airport","iata":"GCW"}
 {"city_name":"Greeneville","airport_name":"Greene County Muni","iata":"GCY"}
@@ -2664,8 +2664,8 @@
 {"city_name":"Georgetown","airport_name":"Sussex County","iata":"GED"}
 {"city_name":"George Town","airport_name":"George Town Airport","iata":"GEE"}
 {"city_name":"Geva","airport_name":"Geva Airport","iata":"GEF"}
-{"city_name":"Spokane","airport_name":"Spokane Intl.","iata":"GEG"}
 {"city_name":"Spokane","airport_name":"Metropolitan Area","iata":"GEG"}
+{"city_name":"Spokane","airport_name":"Spokane Intl.","iata":"GEG"}
 {"city_name":"Santo Angelo","airport_name":"Sepe Tiaraju","iata":"GEL"}
 {"city_name":"Mongomo","airport_name":"Mongomeyen","iata":"GEM"}
 {"city_name":"Georgetown","airport_name":"Cheddi Jagan Intl","iata":"GEO"}
@@ -2741,8 +2741,8 @@
 {"city_name":"Gulkana","airport_name":"Gulkana Airport","iata":"GKN"}
 {"city_name":"Kongo Boumba","airport_name":"Kongo Boumba Airport","iata":"GKO"}
 {"city_name":"Sevierville","airport_name":"Gatlinburg","iata":"GKT"}
-{"city_name":"Glasgow","airport_name":"Metropolitan Area","iata":"GLA"}
 {"city_name":"Glasgow","airport_name":"Glasgow Intl.","iata":"GLA"}
+{"city_name":"Glasgow","airport_name":"Metropolitan Area","iata":"GLA"}
 {"city_name":"Globe","airport_name":"San Carlos Apache","iata":"GLB"}
 {"city_name":"Geladi","airport_name":"Geladi Airport","iata":"GLC"}
 {"city_name":"Goodland","airport_name":"Renner Field","iata":"GLD"}
@@ -2816,8 +2816,8 @@
 {"city_name":"Golmud","airport_name":"Golmud Airport","iata":"GOQ"}
 {"city_name":"Gore","airport_name":"Gore Airport","iata":"GOR"}
 {"city_name":"Gosford","airport_name":"Gosford Airport","iata":"GOS"}
-{"city_name":"Goteborg","airport_name":"Metropolitan Area","iata":"GOT"}
 {"city_name":"Goteborg","airport_name":"Landvetter","iata":"GOT"}
+{"city_name":"Goteborg","airport_name":"Metropolitan Area","iata":"GOT"}
 {"city_name":"Garoua","airport_name":"Garoua Intl.","iata":"GOU"}
 {"city_name":"Nhulunbuy","airport_name":"Gove","iata":"GOV"}
 {"city_name":"Goa","airport_name":"Mopa Airport","iata":"GOX"}
@@ -2876,15 +2876,15 @@
 {"city_name":"Shark el-Owainat","airport_name":"Shark el-Owainat Intl.","iata":"GSQ"}
 {"city_name":"Gardo","airport_name":"Gardo Airport","iata":"GSR"}
 {"city_name":"Sabie","airport_name":"Sabi Sabi","iata":"GSS"}
-{"city_name":"Gustavus","airport_name":"Metropolitan Area","iata":"GST"}
 {"city_name":"Gustavus","airport_name":"Gustavus Airport","iata":"GST"}
+{"city_name":"Gustavus","airport_name":"Metropolitan Area","iata":"GST"}
 {"city_name":"Gedaref","airport_name":"Gedaref Airport","iata":"GSU"}
 {"city_name":"Saratov","airport_name":"Gagarin","iata":"GSV"}
 {"city_name":"Gatokae","airport_name":"Gatokae Airport","iata":"GTA"}
 {"city_name":"Geita","airport_name":"Chato","iata":"GTC"}
 {"city_name":"Groote Eylandt","airport_name":"Groote Eylandt Airport","iata":"GTE"}
-{"city_name":"Great Falls","airport_name":"Metropolitan Area","iata":"GTF"}
 {"city_name":"Great Falls","airport_name":"Great Falls Intl.","iata":"GTF"}
+{"city_name":"Great Falls","airport_name":"Metropolitan Area","iata":"GTF"}
 {"city_name":"Grantsburg","airport_name":"Grantsburg Municipal","iata":"GTG"}
 {"city_name":"Guettin","airport_name":"Guettin Airport","iata":"GTI"}
 {"city_name":"Mount Cook","airport_name":"Glentanner","iata":"GTN"}
@@ -2907,8 +2907,8 @@
 {"city_name":"Guiria","airport_name":"Guiria Airport","iata":"GUI"}
 {"city_name":"Guaratingueta","airport_name":"Guaratingueta Airport","iata":"GUJ"}
 {"city_name":"Goulburn","airport_name":"Goulburn Airport","iata":"GUL"}
-{"city_name":"Guam","airport_name":"Metropolitan Area","iata":"GUM"}
 {"city_name":"Guam","airport_name":"A.B. Won Pat Intl","iata":"GUM"}
+{"city_name":"Guam","airport_name":"Metropolitan Area","iata":"GUM"}
 {"city_name":"Guriel","airport_name":"Guriel Airport","iata":"GUO"}
 {"city_name":"Gallup","airport_name":"Gallup Municipal","iata":"GUP"}
 {"city_name":"Guanare","airport_name":"Guanare Airport","iata":"GUQ"}
@@ -3045,8 +3045,8 @@
 {"city_name":"Dongyang","airport_name":"Hengdian","iata":"HEW"}
 {"city_name":"Natchez","airport_name":"Adams County","iata":"HEZ"}
 {"city_name":"Haifa","airport_name":"Haifa Airport","iata":"HFA"}
-{"city_name":"Hartford","airport_name":"Metropolitan Area","iata":"HFD"}
 {"city_name":"Hartford","airport_name":"Brainard","iata":"HFD"}
+{"city_name":"Hartford","airport_name":"Metropolitan Area","iata":"HFD"}
 {"city_name":"Hefei","airport_name":"Xinqiao Intl","iata":"HFE"}
 {"city_name":"Camp Mackall","airport_name":"Mackall AAF","iata":"HFF"}
 {"city_name":"Hornafjordur","airport_name":"Hofn","iata":"HFN"}
@@ -3148,8 +3148,8 @@
 {"city_name":"Haines","airport_name":"Haines Airport","iata":"HNS"}
 {"city_name":"Hengyang","airport_name":"Bajialing","iata":"HNY"}
 {"city_name":"Hola","airport_name":"Hola Airport","iata":"HOA"}
-{"city_name":"Hobbs","airport_name":"Metropolitan Area","iata":"HOB"}
 {"city_name":"Hobbs","airport_name":"Lea County Regional","iata":"HOB"}
+{"city_name":"Hobbs","airport_name":"Metropolitan Area","iata":"HOB"}
 {"city_name":"Komako","airport_name":"Komako Airport","iata":"HOC"}
 {"city_name":"Hodeidah","airport_name":"Hodeidah Intl.","iata":"HOD"}
 {"city_name":"Houeisay","airport_name":"Houeisay Airport","iata":"HOE"}
@@ -3166,8 +3166,8 @@
 {"city_name":"Horta","airport_name":"Horta Airport","iata":"HOR"}
 {"city_name":"Chos Malal","airport_name":"Chos Malal Airport","iata":"HOS"}
 {"city_name":"Hot Springs","airport_name":"Memorial Field","iata":"HOT"}
-{"city_name":"Houston","airport_name":"William P. Hobby","iata":"HOU"}
 {"city_name":"Houston","airport_name":"Metropolitan Area","iata":"HOU"}
+{"city_name":"Houston","airport_name":"William P. Hobby","iata":"HOU"}
 {"city_name":"Orsta/Volda","airport_name":"Hovden","iata":"HOV"}
 {"city_name":"Homalin","airport_name":"Homalin Airport","iata":"HOX"}
 {"city_name":"Hoy","airport_name":"Longhope","iata":"HOY"}
@@ -3327,8 +3327,8 @@
 {"city_name":"Seoul","airport_name":"Incheon International","iata":"ICN"}
 {"city_name":"Sicogon Island","airport_name":"Sicogon Island Airport","iata":"ICO"}
 {"city_name":"Cascade","airport_name":"Cascade Airport","iata":"ICS"}
-{"city_name":"Wichita","airport_name":"Metropolitan Area","iata":"ICT"}
 {"city_name":"Wichita","airport_name":"Dwight D. Eisenhower","iata":"ICT"}
+{"city_name":"Wichita","airport_name":"Metropolitan Area","iata":"ICT"}
 {"city_name":"Icy Bay","airport_name":"Icy Bay Airport","iata":"ICY"}
 {"city_name":"Idaho Falls","airport_name":"Idaho Falls Reg. Airport","iata":"IDA"}
 {"city_name":"Idre","airport_name":"Idre Airport","iata":"IDB"}
@@ -3394,8 +3394,8 @@
 {"city_name":"Tamchy","airport_name":"Issyk-Kul","iata":"IKU"}
 {"city_name":"Illaga","airport_name":"Illaga Airport","iata":"ILA"}
 {"city_name":"Lleida","airport_name":"Alguaire","iata":"ILD"}
-{"city_name":"Killeen/Fort Hood","airport_name":"Skylark Field","iata":"ILE"}
 {"city_name":"Killeen/Fort Hood","airport_name":"Metropolitan Area","iata":"ILE"}
+{"city_name":"Killeen/Fort Hood","airport_name":"Skylark Field","iata":"ILE"}
 {"city_name":"Ilford","airport_name":"Ilford Airport","iata":"ILF"}
 {"city_name":"Wilmington","airport_name":"New Castle","iata":"ILG"}
 {"city_name":"Illesheim","airport_name":"Illesheim Airport","iata":"ILH"}
@@ -3464,8 +3464,8 @@
 {"city_name":"Ipiranga","airport_name":"Ipiranga Airport","iata":"IPG"}
 {"city_name":"Ipoh","airport_name":"Sultan Azlan Shah","iata":"IPH"}
 {"city_name":"Ipiales","airport_name":"San Luis","iata":"IPI"}
-{"city_name":"Imperial/El Centro","airport_name":"Metropolitan Area","iata":"IPL"}
 {"city_name":"Imperial/El Centro","airport_name":"Imperial County","iata":"IPL"}
+{"city_name":"Imperial/El Centro","airport_name":"Metropolitan Area","iata":"IPL"}
 {"city_name":"Ipatinga","airport_name":"Usiminas","iata":"IPN"}
 {"city_name":"Williamsport","airport_name":"Williamsport Reg. Airport","iata":"IPT"}
 {"city_name":"Ipiau","airport_name":"Ipiau Airport","iata":"IPU"}
@@ -3508,8 +3508,8 @@
 {"city_name":"Islip","airport_name":"Long Island MacArthur","iata":"ISP"}
 {"city_name":"Manistique","airport_name":"Schoolcraft County","iata":"ISQ"}
 {"city_name":"Wiscasset","airport_name":"Wiscasset Airport","iata":"ISS"}
-{"city_name":"Istanbul","airport_name":"Metropolitan Area","iata":"IST"}
 {"city_name":"Istanbul","airport_name":"Istanbul Airport","iata":"IST"}
+{"city_name":"Istanbul","airport_name":"Metropolitan Area","iata":"IST"}
 {"city_name":"Sulaymaniyah","airport_name":"Sulaymaniyah Intl.","iata":"ISU"}
 {"city_name":"Wisconsin Rapids","airport_name":"South Wood County","iata":"ISW"}
 {"city_name":"Itacoatiara","airport_name":"Itacoatiara Airport","iata":"ITA"}
@@ -3584,8 +3584,8 @@
 {"city_name":"Jacmel","airport_name":"Jacmel Airport","iata":"JAK"}
 {"city_name":"Jalapa","airport_name":"El Lencero","iata":"JAL"}
 {"city_name":"Jambol","airport_name":"Bezmer","iata":"JAM"}
-{"city_name":"Jackson","airport_name":"Metropolitan Area","iata":"JAN"}
 {"city_name":"Jackson","airport_name":"Medgar W. Evers Intl","iata":"JAN"}
+{"city_name":"Jackson","airport_name":"Metropolitan Area","iata":"JAN"}
 {"city_name":"Puntarenas","airport_name":"Chacarita","iata":"JAP"}
 {"city_name":"Jacquinot Bay","airport_name":"Jacquinot Bay Airport","iata":"JAQ"}
 {"city_name":"Jahrom","airport_name":"Jahrom Airport","iata":"JAR"}
@@ -3594,8 +3594,8 @@
 {"city_name":"Jauja","airport_name":"Francisco Carle","iata":"JAU"}
 {"city_name":"Ilulissat","airport_name":"Ilulissat Airport","iata":"JAV"}
 {"city_name":"Araripina","airport_name":"Araripina Airport","iata":"JAW"}
-{"city_name":"Jacksonville","airport_name":"Metropolitan Area","iata":"JAX"}
 {"city_name":"Jacksonville","airport_name":"Jacksonville Intl.","iata":"JAX"}
+{"city_name":"Jacksonville","airport_name":"Metropolitan Area","iata":"JAX"}
 {"city_name":"Jember","airport_name":"Noto Hadinegoro","iata":"JBB"}
 {"city_name":"Qitai","airport_name":"Jiangbulake","iata":"JBK"}
 {"city_name":"Santo Domingo","airport_name":"Dr.Joaquin Balaguer","iata":"JBQ"}
@@ -3684,8 +3684,8 @@
 {"city_name":"Jamestown","airport_name":"Jamestown Reg. Airport","iata":"JMS"}
 {"city_name":"Jiamusi","airport_name":"Dongjiao","iata":"JMU"}
 {"city_name":"Januaria","airport_name":"Januaria Airport","iata":"JNA"}
-{"city_name":"Johannesburg","airport_name":"O.R. Tambo Int'l","iata":"JNB"}
 {"city_name":"Johannesburg","airport_name":"Metropolitan Area","iata":"JNB"}
+{"city_name":"Johannesburg","airport_name":"O.R. Tambo Int'l","iata":"JNB"}
 {"city_name":"Jining","airport_name":"Da'an","iata":"JNG"}
 {"city_name":"Junin","airport_name":"Junin Airport","iata":"JNI"}
 {"city_name":"Duqm","airport_name":"Jaaluni","iata":"JNJ"}
@@ -4179,8 +4179,8 @@
 {"city_name":"Kunua","airport_name":"Kunua Airport","iata":"KTK"}
 {"city_name":"Kitale","airport_name":"Kitale Airport","iata":"KTL"}
 {"city_name":"Kathmandu","airport_name":"Tribhuvan Intl","iata":"KTM"}
-{"city_name":"Ketchikan","airport_name":"Metropolitan Area","iata":"KTN"}
 {"city_name":"Ketchikan","airport_name":"Ketchikan Intl.","iata":"KTN"}
+{"city_name":"Ketchikan","airport_name":"Metropolitan Area","iata":"KTN"}
 {"city_name":"Kato","airport_name":"Kato Airport","iata":"KTO"}
 {"city_name":"Kingston","airport_name":"Tinson Pen","iata":"KTP"}
 {"city_name":"Kitee","airport_name":"Kitee Airport","iata":"KTQ"}
@@ -4298,12 +4298,12 @@
 {"city_name":"La Paz","airport_name":"Manuel Marquez de Leon","iata":"LAP"}
 {"city_name":"Beida","airport_name":"Labraq","iata":"LAQ"}
 {"city_name":"Laramie","airport_name":"Laramie Reg. Airport","iata":"LAR"}
-{"city_name":"Las Vegas","airport_name":"Metropolitan Area","iata":"LAS"}
 {"city_name":"Las Vegas","airport_name":"HARRY REID INTL","iata":"LAS"}
+{"city_name":"Las Vegas","airport_name":"Metropolitan Area","iata":"LAS"}
 {"city_name":"Lamu","airport_name":"Manda","iata":"LAU"}
 {"city_name":"Lawton/Fort Sill","airport_name":"Lawton/Fort Sill Reg. Airport","iata":"LAW"}
-{"city_name":"Los Angeles","airport_name":"Metropolitan Area","iata":"LAX"}
 {"city_name":"Los Angeles","airport_name":"Los Angeles Intl.","iata":"LAX"}
+{"city_name":"Los Angeles","airport_name":"Metropolitan Area","iata":"LAX"}
 {"city_name":"Ladysmith","airport_name":"Ladysmith Airport","iata":"LAY"}
 {"city_name":"Bom Jesus da Lapa","airport_name":"Bom Jesus da Lapa Airport","iata":"LAZ"}
 {"city_name":"Leeds/Bradford","airport_name":"Leeds/Bradford Airport","iata":"LBA"}
@@ -4379,8 +4379,8 @@
 {"city_name":"Learmonth","airport_name":"Learmonth Airport","iata":"LEA"}
 {"city_name":"Lebanon","airport_name":"Lebanon Municipal","iata":"LEB"}
 {"city_name":"Lencois","airport_name":"Horacio de Mattos","iata":"LEC"}
-{"city_name":"St Petersburg","airport_name":"Pulkovo","iata":"LED"}
 {"city_name":"St Petersburg","airport_name":"Metropolitan Area","iata":"LED"}
+{"city_name":"St Petersburg","airport_name":"Pulkovo","iata":"LED"}
 {"city_name":"Leesburg","airport_name":"Leesburg Intl.","iata":"LEE"}
 {"city_name":"Lebakeng","airport_name":"Lebakeng Airport","iata":"LEF"}
 {"city_name":"Le Havre","airport_name":"Octeville","iata":"LEH"}
@@ -4399,8 +4399,8 @@
 {"city_name":"Seo de Urgel","airport_name":"Seo de Urgel Airport","iata":"LEU"}
 {"city_name":"Levuka","airport_name":"Bureta","iata":"LEV"}
 {"city_name":"Lewiston/Auburn","airport_name":"Lewiston/Auburn Municipal","iata":"LEW"}
-{"city_name":"Lexington","airport_name":"Metropolitan Area","iata":"LEX"}
 {"city_name":"Lexington","airport_name":"Blue Grass","iata":"LEX"}
+{"city_name":"Lexington","airport_name":"Metropolitan Area","iata":"LEX"}
 {"city_name":"Lelystad","airport_name":"Lelystad Airport","iata":"LEY"}
 {"city_name":"La Esperanza","airport_name":"La Esperanza Airport","iata":"LEZ"}
 {"city_name":"Lumbo","airport_name":"Lumbo Airport","iata":"LFB"}
@@ -4590,8 +4590,8 @@
 {"city_name":"London/Corbin","airport_name":"Magee Field","iata":"LOZ"}
 {"city_name":"Gran Canaria","airport_name":"Gran Canaria Airport","iata":"LPA"}
 {"city_name":"La Paz","airport_name":"El Alto Intl","iata":"LPB"}
-{"city_name":"Lompoc","airport_name":"Metropolitan Area","iata":"LPC"}
 {"city_name":"Lompoc","airport_name":"Lompoc Apt","iata":"LPC"}
+{"city_name":"Lompoc","airport_name":"Metropolitan Area","iata":"LPC"}
 {"city_name":"La Pedrera","airport_name":"La Pedrera Airport","iata":"LPD"}
 {"city_name":"La Primavera","airport_name":"La Primavera Airport","iata":"LPE"}
 {"city_name":"Liupanshui","airport_name":"Yue Zhao","iata":"LPF"}
@@ -4747,8 +4747,8 @@
 {"city_name":"Lyons","airport_name":"Rice County Municipal","iata":"LYO"}
 {"city_name":"Faisalabad","airport_name":"Faisalabad Intl.","iata":"LYP"}
 {"city_name":"Longyearbyen","airport_name":"Svalbard","iata":"LYR"}
-{"city_name":"Lyon","airport_name":"St-Exupery","iata":"LYS"}
 {"city_name":"Lyon","airport_name":"Metropolitan Area","iata":"LYS"}
+{"city_name":"Lyon","airport_name":"St-Exupery","iata":"LYS"}
 {"city_name":"Lady Elliot Island","airport_name":"Lady Elliot Island Airport","iata":"LYT"}
 {"city_name":"Ely","airport_name":"Ely Municipal","iata":"LYU"}
 {"city_name":"Lydd","airport_name":"London Ashford","iata":"LYX"}
@@ -4766,11 +4766,11 @@
 {"city_name":"Chennai","airport_name":"International","iata":"MAA"}
 {"city_name":"Maraba","airport_name":"Joao Correa da Rocha","iata":"MAB"}
 {"city_name":"Macon","airport_name":"Downtown Apt","iata":"MAC"}
-{"city_name":"Madrid","airport_name":"Metropolitan Area","iata":"MAD"}
 {"city_name":"Madrid","airport_name":"Adolfo Suarez-Barajas","iata":"MAD"}
+{"city_name":"Madrid","airport_name":"Metropolitan Area","iata":"MAD"}
 {"city_name":"Madera","airport_name":"Madera Municipal","iata":"MAE"}
-{"city_name":"Midland","airport_name":"Midland Intl.","iata":"MAF"}
 {"city_name":"Midland","airport_name":"Metropolitan Area","iata":"MAF"}
+{"city_name":"Midland","airport_name":"Midland Intl.","iata":"MAF"}
 {"city_name":"Madang","airport_name":"Madang Airport","iata":"MAG"}
 {"city_name":"Menorca","airport_name":"Menorca Airport","iata":"MAH"}
 {"city_name":"Mangochi","airport_name":"Mangochi Airport","iata":"MAI"}
@@ -4821,8 +4821,8 @@
 {"city_name":"McComb","airport_name":"Pike County","iata":"MCB"}
 {"city_name":"Sacramento","airport_name":"McClellan","iata":"MCC"}
 {"city_name":"Mackinac Island","airport_name":"Mackinac Island Airport","iata":"MCD"}
-{"city_name":"Merced","airport_name":"Metropolitan Area","iata":"MCE"}
 {"city_name":"Merced","airport_name":"Merced Reg. Airport","iata":"MCE"}
+{"city_name":"Merced","airport_name":"Metropolitan Area","iata":"MCE"}
 {"city_name":"Tampa","airport_name":"MacDill AFB","iata":"MCF"}
 {"city_name":"McGrath","airport_name":"McGrath Airport","iata":"MCG"}
 {"city_name":"Machala","airport_name":"General Manuel Serrano","iata":"MCH"}
@@ -4846,8 +4846,8 @@
 {"city_name":"Melinda","airport_name":"Melinda Airport","iata":"MDB"}
 {"city_name":"Manado","airport_name":"Sam Ratulangi","iata":"MDC"}
 {"city_name":"Midland","airport_name":"Airpark","iata":"MDD"}
-{"city_name":"Medellin","airport_name":"Metropolitan Area","iata":"MDE"}
 {"city_name":"Medellin","airport_name":"Jose Maria Cordova Int","iata":"MDE"}
+{"city_name":"Medellin","airport_name":"Metropolitan Area","iata":"MDE"}
 {"city_name":"Medford","airport_name":"Taylor County","iata":"MDF"}
 {"city_name":"Mudanjiang","airport_name":"Hailang","iata":"MDG"}
 {"city_name":"Carbondale/Murphysboro","airport_name":"Southern Illinois","iata":"MDH"}
@@ -4893,8 +4893,8 @@
 {"city_name":"Monte Dourado","airport_name":"Serra do Areao","iata":"MEU"}
 {"city_name":"Minden","airport_name":"Minden-Tahoe","iata":"MEV"}
 {"city_name":"Mweka","airport_name":"Mweka Airport","iata":"MEW"}
-{"city_name":"Mexico City","airport_name":"Metropolitan Area","iata":"MEX"}
 {"city_name":"Mexico City","airport_name":"Benito Juarez Intl","iata":"MEX"}
+{"city_name":"Mexico City","airport_name":"Metropolitan Area","iata":"MEX"}
 {"city_name":"Meghauli","airport_name":"Meghauli Airport","iata":"MEY"}
 {"city_name":"Messina","airport_name":"Messina Airport","iata":"MEZ"}
 {"city_name":"Mafia Island","airport_name":"Mafia Island Airport","iata":"MFA"}
@@ -4934,14 +4934,14 @@
 {"city_name":"Montgomery","airport_name":"Orange County","iata":"MGJ"}
 {"city_name":"Mong Ton","airport_name":"Mong Ton Airport","iata":"MGK"}
 {"city_name":"Duesseldorf","airport_name":"Moenchengladbach","iata":"MGL"}
-{"city_name":"Montgomery","airport_name":"Regional-Dannelly Fld","iata":"MGM"}
 {"city_name":"Montgomery","airport_name":"Metropolitan Area","iata":"MGM"}
+{"city_name":"Montgomery","airport_name":"Regional-Dannelly Fld","iata":"MGM"}
 {"city_name":"Magangue","airport_name":"Baracoa","iata":"MGN"}
 {"city_name":"Manega","airport_name":"Manega Airport","iata":"MGO"}
 {"city_name":"Manga","airport_name":"Manga Airport","iata":"MGP"}
 {"city_name":"Mogadishu","airport_name":"Aden Adde Intl","iata":"MGQ"}
-{"city_name":"Moultrie","airport_name":"Moultrie Municipal","iata":"MGR"}
 {"city_name":"Moultrie","airport_name":"Metropolitan Area","iata":"MGR"}
+{"city_name":"Moultrie","airport_name":"Moultrie Municipal","iata":"MGR"}
 {"city_name":"Mangaia Island","airport_name":"Auau","iata":"MGS"}
 {"city_name":"Milingimbi Island","airport_name":"Milingimbi Island Airport","iata":"MGT"}
 {"city_name":"Manaung","airport_name":"Manaung Airport","iata":"MGU"}
@@ -5027,8 +5027,8 @@
 {"city_name":"Mirny","airport_name":"Mirny Airport","iata":"MJZ"}
 {"city_name":"Marianske Lazne","airport_name":"Marianske Lazne Airport","iata":"MKA"}
 {"city_name":"Mekambo","airport_name":"Mekambo Airport","iata":"MKB"}
-{"city_name":"Kansas City","airport_name":"Metropolitan Area","iata":"MKC"}
 {"city_name":"Kansas City","airport_name":"C.B. Wheeler Downtown","iata":"MKC"}
+{"city_name":"Kansas City","airport_name":"Metropolitan Area","iata":"MKC"}
 {"city_name":"Milwaukee","airport_name":"General Mitchell Intl","iata":"MKE"}
 {"city_name":"Milwaukee","airport_name":"Metropolitan Area","iata":"MKE"}
 {"city_name":"Muskegon","airport_name":"Muskegon County","iata":"MKG"}
@@ -5072,8 +5072,8 @@
 {"city_name":"Millinocket","airport_name":"Millinocket Municipal","iata":"MLT"}
 {"city_name":"Monroe","airport_name":"Monroe Reg. Airport","iata":"MLU"}
 {"city_name":"Merluna","airport_name":"Merluna Airport","iata":"MLV"}
-{"city_name":"Monrovia","airport_name":"Spriggs Payne","iata":"MLW"}
 {"city_name":"Monrovia","airport_name":"Metropolitan Area","iata":"MLW"}
+{"city_name":"Monrovia","airport_name":"Spriggs Payne","iata":"MLW"}
 {"city_name":"Malatya","airport_name":"Erhac","iata":"MLX"}
 {"city_name":"Manley Hot Springs","airport_name":"Manley Hot Springs Airport","iata":"MLY"}
 {"city_name":"Melo","airport_name":"Cerro Largo","iata":"MLZ"}
@@ -5130,8 +5130,8 @@
 {"city_name":"Mono Island","airport_name":"Mono Island Airport","iata":"MNY"}
 {"city_name":"Manassas","airport_name":"Manassas Reg. Airport","iata":"MNZ"}
 {"city_name":"Moa","airport_name":"Orestes Acosta","iata":"MOA"}
-{"city_name":"Mobile","airport_name":"Mobile Reg. Airport","iata":"MOB"}
 {"city_name":"Mobile","airport_name":"Metropolitan Area","iata":"MOB"}
+{"city_name":"Mobile","airport_name":"Mobile Reg. Airport","iata":"MOB"}
 {"city_name":"Montes Claros","airport_name":"Mario Ribeiro","iata":"MOC"}
 {"city_name":"Modesto","airport_name":"City-County","iata":"MOD"}
 {"city_name":"Momeik","airport_name":"Momeik Airport","iata":"MOE"}
@@ -5150,8 +5150,8 @@
 {"city_name":"Morondava","airport_name":"Morondava Airport","iata":"MOQ"}
 {"city_name":"Morristown","airport_name":"Moore-Murrell","iata":"MOR"}
 {"city_name":"Moses Point","airport_name":"Moses Point Airport","iata":"MOS"}
-{"city_name":"Minot","airport_name":"Minot Intl.","iata":"MOT"}
 {"city_name":"Minot","airport_name":"Metropolitan Area","iata":"MOT"}
+{"city_name":"Minot","airport_name":"Minot Intl.","iata":"MOT"}
 {"city_name":"Mountain Village","airport_name":"Mountain Village Airport","iata":"MOU"}
 {"city_name":"Moranbah","airport_name":"Moranbah Airport","iata":"MOV"}
 {"city_name":"Moscow","airport_name":"Metropolitan Area","iata":"MOW"}
@@ -5230,8 +5230,8 @@
 {"city_name":"Mineralnye Vody","airport_name":"Mineralnye Vody Airport","iata":"MRV"}
 {"city_name":"Maribo","airport_name":"Lolland Falster","iata":"MRW"}
 {"city_name":"Bandar Mahshahr","airport_name":"Mahshahr","iata":"MRX"}
-{"city_name":"Monterey/Carmel","airport_name":"Monterey Regional","iata":"MRY"}
 {"city_name":"Monterey/Carmel","airport_name":"Metropolitan Area","iata":"MRY"}
+{"city_name":"Monterey/Carmel","airport_name":"Monterey Regional","iata":"MRY"}
 {"city_name":"Moree","airport_name":"Moree Airport","iata":"MRZ"}
 {"city_name":"Muskrat Dam","airport_name":"Muskrat Dam Airport","iata":"MSA"}
 {"city_name":"Phoenix","airport_name":"Falcon Field","iata":"MSC"}
@@ -5247,8 +5247,8 @@
 {"city_name":"Masi-Manimba","airport_name":"Masi-Manimba Airport","iata":"MSM"}
 {"city_name":"Madison","airport_name":"Dane County Regional","iata":"MSN"}
 {"city_name":"Missoula","airport_name":"Missoula Intl.","iata":"MSO"}
-{"city_name":"Minneapolis/St Paul","airport_name":"Minneapolis/St Paul Intl.","iata":"MSP"}
 {"city_name":"Minneapolis/St Paul","airport_name":"Metropolitan Area","iata":"MSP"}
+{"city_name":"Minneapolis/St Paul","airport_name":"Minneapolis/St Paul Intl.","iata":"MSP"}
 {"city_name":"Minsk","airport_name":"Metropolitan Area","iata":"MSQ"}
 {"city_name":"Minsk","airport_name":"Minsk Intl.","iata":"MSQ"}
 {"city_name":"Mus","airport_name":"Mus Airport","iata":"MSR"}
@@ -5290,8 +5290,8 @@
 {"city_name":"Masada","airport_name":"Bar Yehuda","iata":"MTZ"}
 {"city_name":"Munda","airport_name":"Munda Airport","iata":"MUA"}
 {"city_name":"Maun","airport_name":"Maun Airport","iata":"MUB"}
-{"city_name":"Munich","airport_name":"Munich Intl.","iata":"MUC"}
 {"city_name":"Munich","airport_name":"Metropolitan Area","iata":"MUC"}
+{"city_name":"Munich","airport_name":"Munich Intl.","iata":"MUC"}
 {"city_name":"Mueda","airport_name":"Mueda Airport","iata":"MUD"}
 {"city_name":"Kamuela","airport_name":"Waimea-Kohala","iata":"MUE"}
 {"city_name":"Muting","airport_name":"Muting Airport","iata":"MUF"}
@@ -5405,8 +5405,8 @@
 {"city_name":"Myroodah Station","airport_name":"Myroodah Station Airport","iata":"MYO"}
 {"city_name":"Mary","airport_name":"Mary Airport","iata":"MYP"}
 {"city_name":"Mysore","airport_name":"Mandakalli","iata":"MYQ"}
-{"city_name":"Myrtle Beach","airport_name":"Myrtle Beach Intl.","iata":"MYR"}
 {"city_name":"Myrtle Beach","airport_name":"Metropolitan Area","iata":"MYR"}
+{"city_name":"Myrtle Beach","airport_name":"Myrtle Beach Intl.","iata":"MYR"}
 {"city_name":"Myitkyina","airport_name":"Myitkyina Airport","iata":"MYT"}
 {"city_name":"Mekoryuk","airport_name":"Mekoryuk Airport","iata":"MYU"}
 {"city_name":"Marysville","airport_name":"Metropolitan Area","iata":"MYV"}
@@ -5523,8 +5523,8 @@
 {"city_name":"Nevis","airport_name":"Vance W. Amory Intl","iata":"NEV"}
 {"city_name":"New Orleans","airport_name":"Lakefront","iata":"NEW"}
 {"city_name":"Nefteyugansk","airport_name":"Nefteyugansk Airport","iata":"NFG"}
-{"city_name":"Fallon","airport_name":"NAS-Van Voorhis Field","iata":"NFL"}
 {"city_name":"Fallon","airport_name":"Metropolitan Area","iata":"NFL"}
+{"city_name":"Fallon","airport_name":"NAS-Van Voorhis Field","iata":"NFL"}
 {"city_name":"Niuafo'ou","airport_name":"Mata'aho","iata":"NFO"}
 {"city_name":"Nafoora","airport_name":"Nafoora Airport","iata":"NFR"}
 {"city_name":"Young","airport_name":"Young Airport","iata":"NGA"}
@@ -5536,8 +5536,8 @@
 {"city_name":"Nogliki","airport_name":"Nogliki Airport","iata":"NGK"}
 {"city_name":"Ngala","airport_name":"Ngala Airport","iata":"NGL"}
 {"city_name":"Nargana","airport_name":"Nargana Airport","iata":"NGN"}
-{"city_name":"Nagoya","airport_name":"Metropolitan Area","iata":"NGO"}
 {"city_name":"Nagoya","airport_name":"Chubu Centrair Intl","iata":"NGO"}
+{"city_name":"Nagoya","airport_name":"Metropolitan Area","iata":"NGO"}
 {"city_name":"Corpus Christi","airport_name":"NAS (Truax Field)","iata":"NGP"}
 {"city_name":"Shiquanhe","airport_name":"Ngari Gunsa/Ali Kunsha","iata":"NGQ"}
 {"city_name":"Ningerum","airport_name":"Ningerum Airport","iata":"NGR"}
@@ -5545,8 +5545,8 @@
 {"city_name":"Norfolk","airport_name":"NS (Chambers Field)","iata":"NGU"}
 {"city_name":"Corpus Christi","airport_name":"Cabaniss Field NOLF","iata":"NGW"}
 {"city_name":"Manang","airport_name":"Manang Airport","iata":"NGX"}
-{"city_name":"Nha Trang","airport_name":"Metropolitan Area","iata":"NHA"}
 {"city_name":"Nha Trang","airport_name":"Air Base","iata":"NHA"}
+{"city_name":"Nha Trang","airport_name":"Metropolitan Area","iata":"NHA"}
 {"city_name":"Dubai","airport_name":"Minhad AB","iata":"NHD"}
 {"city_name":"New Halfa","airport_name":"New Halfa Airport","iata":"NHF"}
 {"city_name":"Patuxent River","airport_name":"NAS (Trapnell Field)","iata":"NHK"}
@@ -5668,8 +5668,8 @@
 {"city_name":"Kingsville","airport_name":"NAS","iata":"NQI"}
 {"city_name":"Niquelandia","airport_name":"Niquelandia Airport","iata":"NQL"}
 {"city_name":"Neuquen","airport_name":"Presidente Peron","iata":"NQN"}
-{"city_name":"Nottingham","airport_name":"Nottingham Airport","iata":"NQT"}
 {"city_name":"Nottingham","airport_name":"Metropolitan Area","iata":"NQT"}
+{"city_name":"Nottingham","airport_name":"Nottingham Airport","iata":"NQT"}
 {"city_name":"Nuqui","airport_name":"Reyes Murillo","iata":"NQU"}
 {"city_name":"Key West","airport_name":"NAS (Boca Chica Field)","iata":"NQX"}
 {"city_name":"Newquay","airport_name":"Cornwall","iata":"NQY"}
@@ -5710,8 +5710,8 @@
 {"city_name":"Nantong","airport_name":"Xingdong","iata":"NTG"}
 {"city_name":"Bintuni","airport_name":"Stenkol","iata":"NTI"}
 {"city_name":"Manti/Ephraim","airport_name":"Manti/Ephraim Airport","iata":"NTJ"}
-{"city_name":"Newcastle","airport_name":"Williamtown","iata":"NTL"}
 {"city_name":"Newcastle","airport_name":"Metropolitan Area","iata":"NTL"}
+{"city_name":"Newcastle","airport_name":"Williamtown","iata":"NTL"}
 {"city_name":"Miracema do Tocantins","airport_name":"Miracema do Tocantins Airport","iata":"NTM"}
 {"city_name":"Normanton","airport_name":"Normanton Airport","iata":"NTN"}
 {"city_name":"Santo Antao Island","airport_name":"Agostinho Neto","iata":"NTO"}
@@ -5876,8 +5876,8 @@
 {"city_name":"Oita","airport_name":"Oita Airport","iata":"OIT"}
 {"city_name":"Kansas City","airport_name":"Johnson Co Executive","iata":"OJC"}
 {"city_name":"Tojo Una Una","airport_name":"Tanjung Api","iata":"OJU"}
-{"city_name":"Okinawa","airport_name":"Naha","iata":"OKA"}
 {"city_name":"Okinawa","airport_name":"Metropolitan Area","iata":"OKA"}
+{"city_name":"Okinawa","airport_name":"Naha","iata":"OKA"}
 {"city_name":"Fraser Island","airport_name":"Orchid Beach","iata":"OKB"}
 {"city_name":"Oklahoma City","airport_name":"Metropolitan Area","iata":"OKC"}
 {"city_name":"Oklahoma City","airport_name":"Will Rogers World","iata":"OKC"}
@@ -5987,18 +5987,18 @@
 {"city_name":"Orocue","airport_name":"Orocue Airport","iata":"ORC"}
 {"city_name":"Chicago","airport_name":"O'Hare International","iata":"ORD"}
 {"city_name":"Orleans","airport_name":"St Denis de l'Hotel","iata":"ORE"}
-{"city_name":"Norfolk","airport_name":"Norfolk Intl.","iata":"ORF"}
 {"city_name":"Norfolk","airport_name":"Metropolitan Area","iata":"ORF"}
+{"city_name":"Norfolk","airport_name":"Norfolk Intl.","iata":"ORF"}
 {"city_name":"Paramaribo","airport_name":"Zorg en Hoop","iata":"ORG"}
 {"city_name":"Worcester","airport_name":"Worcester Reg. Airport","iata":"ORH"}
 {"city_name":"Port Lions","airport_name":"Port Lions Airport","iata":"ORI"}
 {"city_name":"Orinduik","airport_name":"Orinduik Airport","iata":"ORJ"}
 {"city_name":"Cork","airport_name":"Cork Intl.","iata":"ORK"}
-{"city_name":"Orlando","airport_name":"Metropolitan Area","iata":"ORL"}
 {"city_name":"Orlando","airport_name":"Executive","iata":"ORL"}
+{"city_name":"Orlando","airport_name":"Metropolitan Area","iata":"ORL"}
 {"city_name":"Northampton","airport_name":"Sywell","iata":"ORM"}
-{"city_name":"Oran","airport_name":"Metropolitan Area","iata":"ORN"}
 {"city_name":"Oran","airport_name":"Ahmed Ben Bella","iata":"ORN"}
+{"city_name":"Oran","airport_name":"Metropolitan Area","iata":"ORN"}
 {"city_name":"Yoro","airport_name":"Yoro Airport","iata":"ORO"}
 {"city_name":"Orapa","airport_name":"Orapa Airport","iata":"ORP"}
 {"city_name":"Yorketown","airport_name":"Yorketown Airport","iata":"ORR"}
@@ -6104,8 +6104,8 @@
 {"city_name":"Zagora","airport_name":"Zagora Airport","iata":"OZG"}
 {"city_name":"Zaporizhzhia","airport_name":"Mokraya Intl","iata":"OZH"}
 {"city_name":"Moron","airport_name":"Air Base","iata":"OZP"}
-{"city_name":"Fort Rucker/Ozark","airport_name":"Metropolitan Area","iata":"OZR"}
 {"city_name":"Fort Rucker/Ozark","airport_name":"Cairns AAF","iata":"OZR"}
+{"city_name":"Fort Rucker/Ozark","airport_name":"Metropolitan Area","iata":"OZR"}
 {"city_name":"Ouarzazate","airport_name":"Ouarzazate Airport","iata":"OZZ"}
 {"city_name":"Hpa-an","airport_name":"Hpa-an Airport","iata":"PAA"}
 {"city_name":"Bilaspur","airport_name":"Bilaspur Airport","iata":"PAB"}
@@ -6140,12 +6140,12 @@
 {"city_name":"Pine Bluff","airport_name":"Grider Field","iata":"PBF"}
 {"city_name":"Plattsburgh","airport_name":"Plattsburgh Intl.","iata":"PBG"}
 {"city_name":"Paro","airport_name":"Paro Intl.","iata":"PBH"}
-{"city_name":"West Palm Beach","airport_name":"Palm Beach Intl","iata":"PBI"}
 {"city_name":"West Palm Beach","airport_name":"Metropolitan Area","iata":"PBI"}
+{"city_name":"West Palm Beach","airport_name":"Palm Beach Intl","iata":"PBI"}
 {"city_name":"Paama Island","airport_name":"Paama Island Airport","iata":"PBJ"}
 {"city_name":"Puerto Cabello","airport_name":"Bartolome Salom Intl","iata":"PBL"}
-{"city_name":"Paramaribo","airport_name":"Metropolitan Area","iata":"PBM"}
 {"city_name":"Paramaribo","airport_name":"Johan A. Pengel Intl","iata":"PBM"}
+{"city_name":"Paramaribo","airport_name":"Metropolitan Area","iata":"PBM"}
 {"city_name":"Porto Amboim","airport_name":"Porto Amboim Airport","iata":"PBN"}
 {"city_name":"Paraburdoo","airport_name":"Paraburdoo Airport","iata":"PBO"}
 {"city_name":"Islita","airport_name":"Islita Airport","iata":"PBP"}
@@ -6256,8 +6256,8 @@
 {"city_name":"Port Harcourt","airport_name":"City Airport","iata":"PHG"}
 {"city_name":"Pinheiro","airport_name":"Pinheiro Airport","iata":"PHI"}
 {"city_name":"Pahokee","airport_name":"Palm Beach Co Glades","iata":"PHK"}
-{"city_name":"Philadelphia","airport_name":"Philadelphia Intl.","iata":"PHL"}
 {"city_name":"Philadelphia","airport_name":"Metropolitan Area","iata":"PHL"}
+{"city_name":"Philadelphia","airport_name":"Philadelphia Intl.","iata":"PHL"}
 {"city_name":"Port Huron","airport_name":"St Clair County Intl","iata":"PHN"}
 {"city_name":"Point Hope","airport_name":"Point Hope Airport","iata":"PHO"}
 {"city_name":"Philip","airport_name":"Philip Airport","iata":"PHP"}
@@ -6286,8 +6286,8 @@
 {"city_name":"Pipillipai","airport_name":"Pipillipai Airport","iata":"PIQ"}
 {"city_name":"Pierre","airport_name":"Pierre Reg. Airport","iata":"PIR"}
 {"city_name":"Poitiers","airport_name":"Biard","iata":"PIS"}
-{"city_name":"Pittsburgh","airport_name":"Pittsburgh Intl.","iata":"PIT"}
 {"city_name":"Pittsburgh","airport_name":"Metropolitan Area","iata":"PIT"}
+{"city_name":"Pittsburgh","airport_name":"Pittsburgh Intl.","iata":"PIT"}
 {"city_name":"Piura","airport_name":"G.Concha Iberico Intl","iata":"PIU"}
 {"city_name":"Pirapora","airport_name":"Pirapora Airport","iata":"PIV"}
 {"city_name":"Pikwitonei","airport_name":"Pikwitonei Airport","iata":"PIW"}
@@ -6483,8 +6483,8 @@
 {"city_name":"Boston","airport_name":"Portsmouth Pease Intl","iata":"PSM"}
 {"city_name":"Palestine","airport_name":"Palestine Municipal","iata":"PSN"}
 {"city_name":"Pasto","airport_name":"Antonio Narino","iata":"PSO"}
-{"city_name":"Palm Springs","airport_name":"Palm Springs Intl.","iata":"PSP"}
 {"city_name":"Palm Springs","airport_name":"Metropolitan Area","iata":"PSP"}
+{"city_name":"Palm Springs","airport_name":"Palm Springs Intl.","iata":"PSP"}
 {"city_name":"Philadelphia","airport_name":"Essington SPB","iata":"PSQ"}
 {"city_name":"Pescara","airport_name":"Abruzzo","iata":"PSR"}
 {"city_name":"Posadas","airport_name":"Jose de San Martin","iata":"PSS"}
@@ -6515,8 +6515,8 @@
 {"city_name":"Porterville","airport_name":"Porterville Municipal","iata":"PTV"}
 {"city_name":"Pottstown","airport_name":"Heritage Field","iata":"PTW"}
 {"city_name":"Pitalito","airport_name":"Pitalito Airport","iata":"PTX"}
-{"city_name":"Panama City","airport_name":"Tocumen International","iata":"PTY"}
 {"city_name":"Panama City","airport_name":"Metropolitan Area","iata":"PTY"}
+{"city_name":"Panama City","airport_name":"Tocumen International","iata":"PTY"}
 {"city_name":"Shell Mera","airport_name":"Rio Amazonas","iata":"PTZ"}
 {"city_name":"Puas","airport_name":"Puas Airport","iata":"PUA"}
 {"city_name":"Pueblo","airport_name":"Memorial","iata":"PUB"}
@@ -6639,8 +6639,8 @@
 {"city_name":"Praia","airport_name":"Praia Intl.","iata":"RAI"}
 {"city_name":"Rajkot","airport_name":"Rajkot Airport","iata":"RAJ"}
 {"city_name":"Marrakech","airport_name":"Menara","iata":"RAK"}
-{"city_name":"Riverside","airport_name":"Riverside Municipal","iata":"RAL"}
 {"city_name":"Riverside","airport_name":"Metropolitan Area","iata":"RAL"}
+{"city_name":"Riverside","airport_name":"Riverside Municipal","iata":"RAL"}
 {"city_name":"Ramingining","airport_name":"Ramingining Airport","iata":"RAM"}
 {"city_name":"Ravenna","airport_name":"Ravenna Airport","iata":"RAN"}
 {"city_name":"Ribeirao Preto","airport_name":"Leite Lopes","iata":"RAO"}
@@ -6994,8 +6994,8 @@
 {"city_name":"San Andros","airport_name":"San Andros Airport","iata":"SAQ"}
 {"city_name":"Sparta","airport_name":"Sparta Community","iata":"SAR"}
 {"city_name":"Salton City","airport_name":"Salton Sea","iata":"SAS"}
-{"city_name":"San Antonio","airport_name":"San Antonio Intl.","iata":"SAT"}
 {"city_name":"San Antonio","airport_name":"Metropolitan Area","iata":"SAT"}
+{"city_name":"San Antonio","airport_name":"San Antonio Intl.","iata":"SAT"}
 {"city_name":"Sawu","airport_name":"Tardamu","iata":"SAU"}
 {"city_name":"Savannah","airport_name":"Hilton Head Intl","iata":"SAV"}
 {"city_name":"Savannah","airport_name":"Metropolitan Area","iata":"SAV"}
@@ -7133,8 +7133,8 @@
 {"city_name":"Siegen","airport_name":"Siegerland","iata":"SGE"}
 {"city_name":"Springfield","airport_name":"Springfld-Branson Natl","iata":"SGF"}
 {"city_name":"Springfield","airport_name":"Beckley Municipal","iata":"SGH"}
-{"city_name":"Sargodha","airport_name":"Mushaf AB","iata":"SGI"}
 {"city_name":"Sargodha","airport_name":"Metropolitan Area","iata":"SGI"}
+{"city_name":"Sargodha","airport_name":"Mushaf AB","iata":"SGI"}
 {"city_name":"Sagarai","airport_name":"Sagarai Airport","iata":"SGJ"}
 {"city_name":"Sangapi","airport_name":"Sangapi Airport","iata":"SGK"}
 {"city_name":"Manila","airport_name":"Danilo Atienza AB","iata":"SGL"}
@@ -7151,8 +7151,8 @@
 {"city_name":"Songea","airport_name":"Songea Airport","iata":"SGX"}
 {"city_name":"Skagway","airport_name":"Skagway Airport","iata":"SGY"}
 {"city_name":"Songkhla","airport_name":"Songkhla Airport","iata":"SGZ"}
-{"city_name":"Shanghai","airport_name":"Metropolitan Area","iata":"SHA"}
 {"city_name":"Shanghai","airport_name":"Hongqiao Intl","iata":"SHA"}
+{"city_name":"Shanghai","airport_name":"Metropolitan Area","iata":"SHA"}
 {"city_name":"Nakashibetsu","airport_name":"Nakashibetsu Airport","iata":"SHB"}
 {"city_name":"Inda Selassie","airport_name":"Shire","iata":"SHC"}
 {"city_name":"Staunton/Waynesboro","airport_name":"Shenandoah Valley Rgnl","iata":"SHD"}
@@ -7178,8 +7178,8 @@
 {"city_name":"Shageluk","airport_name":"Shageluk Airport","iata":"SHX"}
 {"city_name":"Shinyanga","airport_name":"Ibadakuli","iata":"SHY"}
 {"city_name":"Seshote","airport_name":"Seshote Airport","iata":"SHZ"}
-{"city_name":"Xi'an","airport_name":"Xiguan","iata":"SIA"}
 {"city_name":"Xi'an","airport_name":"Metropolitan Area","iata":"SIA"}
+{"city_name":"Xi'an","airport_name":"Xiguan","iata":"SIA"}
 {"city_name":"Sibiti","airport_name":"Sibiti Airport","iata":"SIB"}
 {"city_name":"San Jose Island","airport_name":"San Jose Island Airport","iata":"SIC"}
 {"city_name":"Sal Island","airport_name":"Amilcar Cabral Intl","iata":"SID"}
@@ -7209,8 +7209,8 @@
 {"city_name":"Sissano","airport_name":"Sissano Airport","iata":"SIZ"}
 {"city_name":"San Juan","airport_name":"San Juan Airport","iata":"SJA"}
 {"city_name":"San Joaquin","airport_name":"San Joaquin Airport","iata":"SJB"}
-{"city_name":"San Jose","airport_name":"Norman Y. Mineta Intl","iata":"SJC"}
 {"city_name":"San Jose","airport_name":"Metropolitan Area","iata":"SJC"}
+{"city_name":"San Jose","airport_name":"Norman Y. Mineta Intl","iata":"SJC"}
 {"city_name":"San Jose del Cabo","airport_name":"Los Cabos Intl","iata":"SJD"}
 {"city_name":"San Jose del Guaviare","airport_name":"Jorge E. Gonzalez T.","iata":"SJE"}
 {"city_name":"St John Island","airport_name":"Cruz Bay SPB","iata":"SJF"}
@@ -7377,8 +7377,8 @@
 {"city_name":"Saipan","airport_name":"Francisco C. Ada Intl","iata":"SPN"}
 {"city_name":"Menongue","airport_name":"Menongue Airport","iata":"SPP"}
 {"city_name":"San Pedro","airport_name":"San Pedro Airport","iata":"SPR"}
-{"city_name":"Wichita Falls","airport_name":"Municipal/Sheppard AFB","iata":"SPS"}
 {"city_name":"Wichita Falls","airport_name":"Metropolitan Area","iata":"SPS"}
+{"city_name":"Wichita Falls","airport_name":"Municipal/Sheppard AFB","iata":"SPS"}
 {"city_name":"Sipitang","airport_name":"Sipitang Airport","iata":"SPT"}
 {"city_name":"Split","airport_name":"Split Airport","iata":"SPU"}
 {"city_name":"Sepik Plains","airport_name":"Sepik Plains Airport","iata":"SPV"}
@@ -7439,8 +7439,8 @@
 {"city_name":"Santa Cruz","airport_name":"Metropolitan Area","iata":"SRZ"}
 {"city_name":"Salvador","airport_name":"Luis E. Magalhaes Intl","iata":"SSA"}
 {"city_name":"St Croix Island","airport_name":"Christiansted SPB","iata":"SSB"}
-{"city_name":"Sumter","airport_name":"Shaw AFB","iata":"SSC"}
 {"city_name":"Sumter","airport_name":"Metropolitan Area","iata":"SSC"}
+{"city_name":"Sumter","airport_name":"Shaw AFB","iata":"SSC"}
 {"city_name":"San Felipe","airport_name":"San Felipe Airport","iata":"SSD"}
 {"city_name":"Solapur","airport_name":"Solapur Airport","iata":"SSE"}
 {"city_name":"San Antonio","airport_name":"Stinson Municipal","iata":"SSF"}
@@ -7485,8 +7485,8 @@
 {"city_name":"St Marys","airport_name":"St Marys Municipal","iata":"STQ"}
 {"city_name":"Stuttgart","airport_name":"Stuttgart Airport","iata":"STR"}
 {"city_name":"Santa Rosa","airport_name":"Charles M. Schulz","iata":"STS"}
-{"city_name":"St Thomas Island","airport_name":"Metropolitan Area","iata":"STT"}
 {"city_name":"St Thomas Island","airport_name":"Cyril E. King","iata":"STT"}
+{"city_name":"St Thomas Island","airport_name":"Metropolitan Area","iata":"STT"}
 {"city_name":"Surat","airport_name":"Surat Airport","iata":"STV"}
 {"city_name":"Stavropol","airport_name":"Shpakovskoye","iata":"STW"}
 {"city_name":"St Croix Island","airport_name":"Henry E. Rohlsen","iata":"STX"}
@@ -7803,8 +7803,8 @@
 {"city_name":"Thorshofn","airport_name":"Thorshofn Airport","iata":"THO"}
 {"city_name":"Thermopolis","airport_name":"Hot Springs County","iata":"THP"}
 {"city_name":"Tianshui","airport_name":"Maijishan","iata":"THQ"}
-{"city_name":"Tehran","airport_name":"Metropolitan Area","iata":"THR"}
 {"city_name":"Tehran","airport_name":"Mehrabad Intl","iata":"THR"}
+{"city_name":"Tehran","airport_name":"Metropolitan Area","iata":"THR"}
 {"city_name":"Sukhothai","airport_name":"Sukhothai Airport","iata":"THS"}
 {"city_name":"Tamchakett","airport_name":"Tamchakett Airport","iata":"THT"}
 {"city_name":"Pituffik","airport_name":"Thule Air Base","iata":"THU"}
@@ -7898,8 +7898,8 @@
 {"city_name":"Toulouse","airport_name":"Blagnac","iata":"TLS"}
 {"city_name":"Tuluksak","airport_name":"Tuluksak Airport","iata":"TLT"}
 {"city_name":"Tolu","airport_name":"Golfo de Morrosquillo","iata":"TLU"}
-{"city_name":"Tel Aviv-Yafo","airport_name":"Metropolitan Area","iata":"TLV"}
 {"city_name":"Tel Aviv-Yafo","airport_name":"Ben Gurion Intl","iata":"TLV"}
+{"city_name":"Tel Aviv-Yafo","airport_name":"Metropolitan Area","iata":"TLV"}
 {"city_name":"Talasea","airport_name":"Talasea Airport","iata":"TLW"}
 {"city_name":"Talca","airport_name":"Panguilemo","iata":"TLX"}
 {"city_name":"Plastun","airport_name":"Plastun Airport","iata":"TLY"}
@@ -7965,13 +7965,13 @@
 {"city_name":"Troy","airport_name":"Troy Municipal","iata":"TOI"}
 {"city_name":"Madrid","airport_name":"Torrejon","iata":"TOJ"}
 {"city_name":"Torokina","airport_name":"Torokina Airport","iata":"TOK"}
-{"city_name":"Toledo","airport_name":"Metropolitan Area","iata":"TOL"}
 {"city_name":"Toledo","airport_name":"Express","iata":"TOL"}
+{"city_name":"Toledo","airport_name":"Metropolitan Area","iata":"TOL"}
 {"city_name":"Tombouctou","airport_name":"Tombouctou Airport","iata":"TOM"}
 {"city_name":"Tonu","airport_name":"Tonu Airport","iata":"TON"}
 {"city_name":"San Vito","airport_name":"San Vito Airport","iata":"TOO"}
-{"city_name":"Topeka","airport_name":"Philip Billard Muni","iata":"TOP"}
 {"city_name":"Topeka","airport_name":"Metropolitan Area","iata":"TOP"}
+{"city_name":"Topeka","airport_name":"Philip Billard Muni","iata":"TOP"}
 {"city_name":"Tocopilla","airport_name":"Barriles","iata":"TOQ"}
 {"city_name":"Torrington","airport_name":"Torrington Municipal","iata":"TOR"}
 {"city_name":"Tromso","airport_name":"Langnes","iata":"TOS"}
@@ -7986,12 +7986,12 @@
 {"city_name":"Tampa","airport_name":"Metropolitan Area","iata":"TPA"}
 {"city_name":"Tampa","airport_name":"Tampa Intl.","iata":"TPA"}
 {"city_name":"Tarapoa","airport_name":"Tarapoa Airport","iata":"TPC"}
-{"city_name":"Taipei","airport_name":"Taiwan Taoyuan Int'l","iata":"TPE"}
 {"city_name":"Taipei","airport_name":"Metropolitan Area","iata":"TPE"}
+{"city_name":"Taipei","airport_name":"Taiwan Taoyuan Int'l","iata":"TPE"}
 {"city_name":"Tampa","airport_name":"Peter O. Knight","iata":"TPF"}
 {"city_name":"Taiping","airport_name":"Taiping Airport","iata":"TPG"}
-{"city_name":"Tonopah","airport_name":"Tonopah Arpt","iata":"TPH"}
 {"city_name":"Tonopah","airport_name":"Metropolitan Area","iata":"TPH"}
+{"city_name":"Tonopah","airport_name":"Tonopah Arpt","iata":"TPH"}
 {"city_name":"Tapini","airport_name":"Tapini Airport","iata":"TPI"}
 {"city_name":"Taplejung","airport_name":"Taplejung Airport","iata":"TPJ"}
 {"city_name":"Tapaktuan","airport_name":"Teuku Cut Ali","iata":"TPK"}
@@ -8395,8 +8395,8 @@
 {"city_name":"Can Tho","airport_name":"Can Tho Intl.","iata":"VCA"}
 {"city_name":"Vacaria","airport_name":"Vacaria Airport","iata":"VCC"}
 {"city_name":"Victoria River Downs","airport_name":"Victoria River Downs Airport","iata":"VCD"}
-{"city_name":"Venice","airport_name":"Metropolitan Area","iata":"VCE"}
 {"city_name":"Venice","airport_name":"Marco Polo","iata":"VCE"}
+{"city_name":"Venice","airport_name":"Metropolitan Area","iata":"VCE"}
 {"city_name":"Valcheta","airport_name":"Valcheta Airport","iata":"VCF"}
 {"city_name":"Vichadero","airport_name":"Vichadero Airport","iata":"VCH"}
 {"city_name":"Chu Lai","airport_name":"Chu Lai Intl.","iata":"VCL"}
@@ -8519,8 +8519,8 @@
 {"city_name":"Varandey","airport_name":"Varandey Airport","iata":"VRI"}
 {"city_name":"Varkaus","airport_name":"Varkaus Airport","iata":"VRK"}
 {"city_name":"Vila Real","airport_name":"Vila Real Airport","iata":"VRL"}
-{"city_name":"Verona","airport_name":"Villafranca","iata":"VRN"}
 {"city_name":"Verona","airport_name":"Metropolitan Area","iata":"VRN"}
+{"city_name":"Verona","airport_name":"Villafranca","iata":"VRN"}
 {"city_name":"Varadero","airport_name":"Kawama","iata":"VRO"}
 {"city_name":"Versailles","airport_name":"Roy Otten Memorial","iata":"VRS"}
 {"city_name":"Vryburg","airport_name":"Vryburg Airport","iata":"VRU"}
@@ -8577,8 +8577,8 @@
 {"city_name":"Waterford","airport_name":"Waterford Airport","iata":"WAT"}
 {"city_name":"Wauchope","airport_name":"Wauchope Airport","iata":"WAU"}
 {"city_name":"Wave Hill","airport_name":"Wave Hill Airport","iata":"WAV"}
-{"city_name":"Warsaw","airport_name":"Metropolitan Area","iata":"WAW"}
 {"city_name":"Warsaw","airport_name":"Frederic Chopin","iata":"WAW"}
+{"city_name":"Warsaw","airport_name":"Metropolitan Area","iata":"WAW"}
 {"city_name":"Zuara","airport_name":"Zuara Airport","iata":"WAX"}
 {"city_name":"Waynesburg","airport_name":"Greene County","iata":"WAY"}
 {"city_name":"Warwick","airport_name":"Warwick Airport","iata":"WAZ"}
@@ -8909,8 +8909,8 @@
 {"city_name":"Alert Bay","airport_name":"Alert Bay Airport","iata":"YAL"}
 {"city_name":"Sault Ste Marie","airport_name":"Sault Ste Marie Airport","iata":"YAM"}
 {"city_name":"Yangambi","airport_name":"Yangambi Airport","iata":"YAN"}
-{"city_name":"Yaounde","airport_name":"Yaounde-Ville Apt","iata":"YAO"}
 {"city_name":"Yaounde","airport_name":"Metropolitan Area","iata":"YAO"}
+{"city_name":"Yaounde","airport_name":"Yaounde-Ville Apt","iata":"YAO"}
 {"city_name":"Yap","airport_name":"Yap Intl.","iata":"YAP"}
 {"city_name":"Maple Bay","airport_name":"SPB","iata":"YAQ"}
 {"city_name":"La Grande-3","airport_name":"La Grande-3 Airport","iata":"YAR"}
@@ -8932,8 +8932,8 @@
 {"city_name":"Black Tickle","airport_name":"Black Tickle Airport","iata":"YBI"}
 {"city_name":"Baie-Johan-Beetz","airport_name":"SPB","iata":"YBJ"}
 {"city_name":"Baker Lake","airport_name":"Baker Lake Airport","iata":"YBK"}
-{"city_name":"Campbell River","airport_name":"Metropolitan Area","iata":"YBL"}
 {"city_name":"Campbell River","airport_name":"Campbell River Airport","iata":"YBL"}
+{"city_name":"Campbell River","airport_name":"Metropolitan Area","iata":"YBL"}
 {"city_name":"Bob Quinn Lake","airport_name":"Bob Quinn Lake Airport","iata":"YBO"}
 {"city_name":"Yibin","airport_name":"Wuliangye Airport","iata":"YBP"}
 {"city_name":"Thetis Island","airport_name":"Telegraph Harbour SPB","iata":"YBQ"}
@@ -9053,8 +9053,8 @@
 {"city_name":"Haines Junction","airport_name":"Haines Junction Airport","iata":"YHT"}
 {"city_name":"Montreal","airport_name":"St-Hubert","iata":"YHU"}
 {"city_name":"Hay River","airport_name":"Merlyn Carter","iata":"YHY"}
-{"city_name":"Halifax","airport_name":"Stanfield Intl","iata":"YHZ"}
 {"city_name":"Halifax","airport_name":"Metropolitan Area","iata":"YHZ"}
+{"city_name":"Halifax","airport_name":"Stanfield Intl","iata":"YHZ"}
 {"city_name":"Yogyakarta","airport_name":"New Yogyakarta Int.","iata":"YIA"}
 {"city_name":"Atikokan","airport_name":"Atikokan Municipal","iata":"YIB"}
 {"city_name":"Yichun (Jiangxi)","airport_name":"Mingyueshan","iata":"YIC"}
@@ -9285,8 +9285,8 @@
 {"city_name":"Repulse Bay","airport_name":"Repulse Bay Airport","iata":"YUT"}
 {"city_name":"Sanirajak","airport_name":"Hall Beach","iata":"YUX"}
 {"city_name":"Rouyn-Noranda","airport_name":"Rouyn-Noranda Airport","iata":"YUY"}
-{"city_name":"Moroni","airport_name":"Metropolitan Area","iata":"YVA"}
 {"city_name":"Moroni","airport_name":"Iconi","iata":"YVA"}
+{"city_name":"Moroni","airport_name":"Metropolitan Area","iata":"YVA"}
 {"city_name":"Bonaventure","airport_name":"Bonaventure Airport","iata":"YVB"}
 {"city_name":"La Ronge","airport_name":"Barber Field","iata":"YVC"}
 {"city_name":"Yeva","airport_name":"Yeva Airport","iata":"YVD"}
@@ -9297,8 +9297,8 @@
 {"city_name":"Val d'Or","airport_name":"Val d'Or Airport","iata":"YVO"}
 {"city_name":"Kuujjuaq","airport_name":"Kuujjuaq Airport","iata":"YVP"}
 {"city_name":"Norman Wells","airport_name":"Norman Wells Airport","iata":"YVQ"}
-{"city_name":"Vancouver","airport_name":"Vancouver Intl.","iata":"YVR"}
 {"city_name":"Vancouver","airport_name":"Metropolitan Area","iata":"YVR"}
+{"city_name":"Vancouver","airport_name":"Vancouver Intl.","iata":"YVR"}
 {"city_name":"Buffalo Narrows","airport_name":"Buffalo Narrows Airport","iata":"YVT"}
 {"city_name":"Wiarton","airport_name":"Wiarton Airport","iata":"YVV"}
 {"city_name":"Deer Lake","airport_name":"Deer Lake Airport","iata":"YVZ"}
