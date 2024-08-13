@@ -2,6 +2,7 @@
 {"company_name":"A-ICE srl","country_or_territory":"Italy","iata":"1C"}
 {"company_name":"NG Eagle Limited dba NG Eagle Limited","country_or_territory":"Nigeria","iata":"2N"}
 {"company_name":"Hi Fly Ltd","country_or_territory":"Malta","iata":"3L*"}
+{"company_name":"Lineas Aereas Suramericanas SA \"LAS S.A.\"","country_or_territory":"Colombia","iata":"4L"}
 {"company_name":"EW Discover GmbH","country_or_territory":"Germany","iata":"4Y"}
 {"company_name":"Challenge Airlines (IL) Ltd","country_or_territory":"Israel","iata":"5C"}
 {"company_name":"Tatonduk Outfitters Limited dba Eve Air Alaska dba Everts Air Cargo","country_or_territory":"UNITED STATES OF AMERICA","iata":"5V"}
@@ -456,6 +457,7 @@
 {"company_name":"Air Niugini Limited","country_or_territory":"Papua New Guinea","iata":"PX"}
 {"company_name":"Surinaamse Luchtvaart Maatschappij N.V dba Surinam Airways","country_or_territory":"Suriname","iata":"PY"}
 {"company_name":"Transportes Aereos del Mercosur S.A dba LATAM Airlines Paraguay","country_or_territory":"Paraguay","iata":"PZ"}
+{"company_name":"PT. Sqiva Sistem","country_or_territory":"Indonesia","iata":"Q1"}
 {"company_name":"Queen Bilqis Airways","country_or_territory":"Yemen, Republic of","iata":"QA"}
 {"company_name":"Qeshm Air","country_or_territory":"Iran","iata":"QB"}
 {"company_name":"Cameroon Airlines Corporation (Camair-Co)","country_or_territory":"Cameroon","iata":"QC"}
@@ -654,6 +656,7 @@
 {"company_name":"Air Transport Association of Americ d\\b\\a Airlines for America","country_or_territory":"UNITED STATES OF AMERICA","iata":"XD"}
 {"company_name":"Airlines Clearing House Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"XD"}
 {"company_name":"Airlines Reporting Corporation. Area Settlement Plan","country_or_territory":"UNITED STATES OF AMERICA","iata":"XD"}
+{"company_name":"OAG Worldwide.","country_or_territory":"UNITED STATES OF AMERICA","iata":"XD"}
 {"company_name":"Delux Public Charter dba JSX Air","country_or_territory":"UNITED STATES OF AMERICA","iata":"XE"}
 {"company_name":"Mongolian Airways Cargo LLC","country_or_territory":"Mongolia","iata":"XF"}
 {"company_name":"USC GmbH","country_or_territory":"Germany","iata":"XG"}
