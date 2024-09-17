@@ -7,6 +7,7 @@ from unittest.mock import patch, mock_open
 import pytest
 from requests.exceptions import RequestException
 from iata_code_fetcher.fetcher import (
+    generate_codes,
     fetch_and_process_data,
     process_and_save_data,
     CodeType,
@@ -163,6 +164,48 @@ def test_process_and_save_data_airport(mock_get, mock_file, airport_response_moc
     mock_file().write.assert_any_call(
         '{"City Name": "Anaa", "Airport Name": "Anaa Airport", "3-letter location code": "AAA"}\n'
     )
+
+
+def test_generate_codes_for_two_letter_codes():
+    """
+    Test to ensure the function generates two-character codes correctly
+    """
+    length = 2  # Test with two-character codes (letters and digits)
+    codes = list(generate_codes(length))
+    expected_number_of_codes = (26 + 10)**2  # 26 letters + 10 digits, so (26 + 10)^2 combinations
+
+    # Check if all codes have the correct length
+    assert all(len(code) == length for code in codes), "All codes must have the specified length of 2"
+
+    # Check the total number of generated codes
+    assert (
+        len(codes) == expected_number_of_codes
+    ), f"The number of generated two-character codes should be {expected_number_of_codes}"
+
+    # Check specific codes to ensure correct sequence (first and last with updated rules)
+    assert codes[0] == "00", "The first code should be '00'"
+    assert codes[-1] == "ZZ", "The last code should be 'ZZ'"
+
+
+def test_generate_codes_for_three_letter_codes():
+    """
+    Test to ensure the function generates three-character codes correctly
+    """
+    length = 3  # Test with three-character codes (letters and digits)
+    codes = list(generate_codes(length))
+    expected_number_of_codes = (26 + 10)**3  # 26 letters + 10 digits, so (26 + 10)^3 combinations
+
+    # Check if all codes have the correct length
+    assert all(len(code) == length for code in codes), "All codes must have the specified length of 3"
+
+    # Check the total number of generated codes
+    assert (
+        len(codes) == expected_number_of_codes
+    ), f"The number of generated three-character codes should be {expected_number_of_codes}"
+
+    # Check specific codes to ensure correct sequence (first and last with updated rules)
+    assert codes[0] == "000", "The first code should be '000'"
+    assert codes[-1] == "ZZZ", "The last code should be 'ZZZ'"
 
 
 if __name__ == "__main__":
