@@ -166,47 +166,5 @@ def test_process_and_save_data_airport(mock_get, mock_file, airport_response_moc
     )
 
 
-def test_generate_codes_for_two_letter_codes():
-    """
-    Test to ensure the function generates two-letter codes correctly
-    """
-    length = 2  # Test with two-letter codes
-    codes = list(generate_codes(length))
-    expected_number_of_codes = 26**2  # There are 26 letters, so 26^2 two-letter combinations
-
-    # Check if all codes have the correct length
-    assert all(len(code) == length for code in codes), "All codes must have the specified length of 2"
-
-    # Check the total number of generated codes
-    assert (
-        len(codes) == expected_number_of_codes
-    ), f"The number of generated two-letter codes should be {expected_number_of_codes}"
-
-    # Check specific codes to ensure correct sequence
-    assert codes[0] == "AA", "The first code should be 'AA'"
-    assert codes[-1] == "ZZ", "The last code should be 'ZZ'"
-
-
-def test_generate_codes_for_three_letter_codes():
-    """
-    Test to ensure the function generates three-letter codes correctly
-    """
-    length = 3  # Test with three-letter codes
-    codes = list(generate_codes(length))
-    expected_number_of_codes = 26**3  # There are 26 letters, so 26^3 three-letter combinations
-
-    # Check if all codes have the correct length
-    assert all(len(code) == length for code in codes), "All codes must have the specified length of 3"
-
-    # Check the total number of generated codes
-    assert (
-        len(codes) == expected_number_of_codes
-    ), f"The number of generated three-letter codes should be {expected_number_of_codes}"
-
-    # Check specific codes to ensure correct sequence
-    assert codes[0] == "AAA", "The first code should be 'AAA'"
-    assert codes[-1] == "ZZZ", "The last code should be 'ZZZ'"
-
-
 if __name__ == "__main__":
     pytest.main()

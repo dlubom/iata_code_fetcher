@@ -4,7 +4,7 @@ for both carrier and airport codes, processing the data, and saving it in JSONL 
 """
 
 import json
-from string import ascii_uppercase
+from string import ascii_uppercase, digits
 from itertools import product
 from typing import Generator, List, Dict
 from enum import Enum
@@ -48,7 +48,7 @@ def generate_codes(length: int) -> Generator[str, None, None]:
     :param length: Length of the IATA code (2 for carrier, 3 for airport).
     :return: Generator of code strings.
     """
-    return ("".join(letters) for letters in product(ascii_uppercase, repeat=length))
+    return ("".join(letters) for letters in product(ascii_uppercase + digits, repeat=length))
 
 
 def fetch_and_process_data(code: str, code_type: CodeType) -> List[Dict[str, str]]:
