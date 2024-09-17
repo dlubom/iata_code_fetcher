@@ -190,7 +190,9 @@ def test_generate_codes_for_two_letter_codes():
 
     # Optional: Check that all codes consist of only uppercase letters and digits
     allowed_characters = set(ascii_uppercase + digits)
-    assert all(all(char in allowed_characters for char in code) for code in codes), "All codes must consist of uppercase letters and digits"
+    assert all(
+        all(char in allowed_characters for char in code) for code in codes
+    ), "All codes must consist of uppercase letters and digits"
 
 
 def test_generate_codes_for_three_letter_codes():
@@ -216,7 +218,9 @@ def test_generate_codes_for_three_letter_codes():
 
     # Optional: Check that all codes consist of only uppercase letters and digits
     allowed_characters = set(ascii_uppercase + digits)
-    assert all(all(char in allowed_characters for char in code) for code in codes), "All codes must consist of uppercase letters and digits"
+    assert all(
+        all(char in allowed_characters for char in code) for code in codes
+    ), "All codes must consist of uppercase letters and digits"
 
 
 if __name__ == "__main__":
