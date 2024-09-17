@@ -3,6 +3,7 @@ This module contains unit tests for the iata_code_fetcher.fetcher module, verify
 and integration points, with a focus on the fetch_and_process_data and process_and_save_data functions.
 """
 
+from string import ascii_uppercase, digits
 from unittest.mock import patch, mock_open
 import pytest
 from requests.exceptions import RequestException
@@ -168,44 +169,54 @@ def test_process_and_save_data_airport(mock_get, mock_file, airport_response_moc
 
 def test_generate_codes_for_two_letter_codes():
     """
-    Test to ensure the function generates two-character codes correctly
+    Test to ensure the function generates two-letter codes correctly,
+    including letters and digits.
     """
-    length = 2  # Test with two-character codes (letters and digits)
+    length = 2  # Test with two-character codes
     codes = list(generate_codes(length))
-    expected_number_of_codes = (26 + 10)**2  # 26 letters + 10 digits, so (26 + 10)^2 combinations
+    expected_number_of_codes = 36**2  # 26 letters + 10 digits = 36 characters
 
     # Check if all codes have the correct length
-    assert all(len(code) == length for code in codes), "All codes must have the specified length of 2"
+    assert all(len(code) == length for code in codes), f"All codes must have the specified length of {length}"
 
     # Check the total number of generated codes
     assert (
         len(codes) == expected_number_of_codes
     ), f"The number of generated two-character codes should be {expected_number_of_codes}"
 
-    # Check specific codes to ensure correct sequence (first and last with updated rules)
-    assert codes[0] == "00", "The first code should be '00'"
-    assert codes[-1] == "ZZ", "The last code should be 'ZZ'"
+    # Check specific codes to ensure correct sequence
+    assert codes[0] == "AA", "The first code should be 'AA'"
+    assert codes[-1] == "99", "The last code should be '99'"
+
+    # Optional: Check that all codes consist of only uppercase letters and digits
+    allowed_characters = set(ascii_uppercase + digits)
+    assert all(all(char in allowed_characters for char in code) for code in codes), "All codes must consist of uppercase letters and digits"
 
 
 def test_generate_codes_for_three_letter_codes():
     """
-    Test to ensure the function generates three-character codes correctly
+    Test to ensure the function generates three-letter codes correctly,
+    including letters and digits.
     """
-    length = 3  # Test with three-character codes (letters and digits)
+    length = 3  # Test with three-character codes
     codes = list(generate_codes(length))
-    expected_number_of_codes = (26 + 10)**3  # 26 letters + 10 digits, so (26 + 10)^3 combinations
+    expected_number_of_codes = 36**3  # 26 letters + 10 digits = 36 characters
 
     # Check if all codes have the correct length
-    assert all(len(code) == length for code in codes), "All codes must have the specified length of 3"
+    assert all(len(code) == length for code in codes), f"All codes must have the specified length of {length}"
 
     # Check the total number of generated codes
     assert (
         len(codes) == expected_number_of_codes
     ), f"The number of generated three-character codes should be {expected_number_of_codes}"
 
-    # Check specific codes to ensure correct sequence (first and last with updated rules)
-    assert codes[0] == "000", "The first code should be '000'"
-    assert codes[-1] == "ZZZ", "The last code should be 'ZZZ'"
+    # Check specific codes to ensure correct sequence
+    assert codes[0] == "AAA", "The first code should be 'AAA'"
+    assert codes[-1] == "999", "The last code should be '999'"
+
+    # Optional: Check that all codes consist of only uppercase letters and digits
+    allowed_characters = set(ascii_uppercase + digits)
+    assert all(all(char in allowed_characters for char in code) for code in codes), "All codes must consist of uppercase letters and digits"
 
 
 if __name__ == "__main__":
