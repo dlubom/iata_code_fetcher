@@ -7,7 +7,6 @@ from unittest.mock import patch, mock_open
 import pytest
 from requests.exceptions import RequestException
 from iata_code_fetcher.fetcher import (
-    generate_codes,
     fetch_and_process_data,
     process_and_save_data,
     CodeType,
