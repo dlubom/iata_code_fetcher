@@ -613,6 +613,7 @@
 {"city_name":"Bemichi","airport_name":"Bemichi Airport","iata":"BCG"}
 {"city_name":"Baucau","airport_name":"Cakung","iata":"BCH"}
 {"city_name":"Barcaldine","airport_name":"Barcaldine Airport","iata":"BCI"}
+{"city_name":"Mianyang","airport_name":"Beichuan Yongchang","iata":"BCJ"}
 {"city_name":"Bolwarra","airport_name":"Bolwarra Airport","iata":"BCK"}
 {"city_name":"Barra del Colorado","airport_name":"Barra del Colorado Airport","iata":"BCL"}
 {"city_name":"Bacau","airport_name":"Bacau Airport","iata":"BCM"}
@@ -3309,6 +3310,7 @@
 {"city_name":"Yaroslavl","airport_name":"Tunoshna","iata":"IAR"}
 {"city_name":"Iasi","airport_name":"Iasi Airport","iata":"IAS"}
 {"city_name":"Iaura","airport_name":"Iaura Airport","iata":"IAU"}
+{"city_name":"Miangas","airport_name":"Miangas","iata":"IAX"}
 {"city_name":"Ibadan","airport_name":"Ibadan Airport","iata":"IBA"}
 {"city_name":"Isabela Island","airport_name":"General Villamil","iata":"IBB"}
 {"city_name":"Ibague","airport_name":"Perales","iata":"IBE"}
