@@ -103,6 +103,7 @@
 {"company_name":"EW Discover GmbH","country_or_territory":"Germany","iata":"4Y"}
 {"company_name":"Airbus Transport International","country_or_territory":"France","iata":"4Y*"}
 {"company_name":"Airlink","country_or_territory":"South Africa","iata":"4Z"}
+{"company_name":"Airlink (Pty) Ltd Dba Airlink","country_or_territory":"South Africa","iata":"4Z"}
 {"company_name":"Bridges Air Cargo","country_or_territory":"Malta","iata":"5B"}
 {"company_name":"Challenge Airlines (IL) Ltd","country_or_territory":"Israel","iata":"5C"}
 {"company_name":"Aerolitoral S.A. de C.V. dba AeroM�xico Connect","country_or_territory":"Mexico","iata":"5D"}
@@ -110,6 +111,7 @@
 {"company_name":"Fly One S.R.L.","country_or_territory":"Moldova, Republic of","iata":"5F"}
 {"company_name":"\"SHIRAK AVIA\" Limited Liability Com","country_or_territory":"Armenia","iata":"5G*"}
 {"company_name":"ASL Airlines (Ireland) Limited","country_or_territory":"Ireland","iata":"5H"}
+{"company_name":"ASL Airlines (Ireland) Limited dba Air Contractors","country_or_territory":"Ireland","iata":"5H"}
 {"company_name":"Alsa Grupo SLU","country_or_territory":"Spain","iata":"5I*"}
 {"company_name":"Cebu Air, Inc dba Cebu Pacific Air","country_or_territory":"Philippines","iata":"5J"}
 {"company_name":"SPRINGJET, S.A.","country_or_territory":"Portugal","iata":"5K*"}
@@ -151,6 +153,7 @@
 {"company_name":"Smartlynx Airlines Ltd.","country_or_territory":"Latvia","iata":"6Y"}
 {"company_name":"Express Air Cargo","country_or_territory":"Tunisia","iata":"7A"}
 {"company_name":"PT BBN Airlines Indonesia n/a","country_or_territory":"Indonesia","iata":"7B*"}
+{"company_name":"Jeju Air","country_or_territory":"Korea, Republic of","iata":"7C"}
 {"company_name":"Jeju Air Co. Ltd.","country_or_territory":"Korea, Republic of","iata":"7C"}
 {"company_name":"Coyne Airways Ltd","country_or_territory":"United Kingdom","iata":"7C*"}
 {"company_name":"PT Cardig Air","country_or_territory":"Indonesia","iata":"7D"}
@@ -289,6 +292,7 @@
 {"company_name":"Skymark Airlines Inc.","country_or_territory":"Japan","iata":"BC"}
 {"company_name":"Air Inter Transport Company Limited dba Budget Lines","country_or_territory":"Thailand","iata":"BD"}
 {"company_name":"French Bee dba French Bee","country_or_territory":"France","iata":"BF"}
+{"company_name":"Biman Bangladesh Airlines","country_or_territory":"Bangladesh","iata":"BG"}
 {"company_name":"Biman Bangladesh Airlines Limited","country_or_territory":"Bangladesh","iata":"BG"}
 {"company_name":"Royal Brunei Airlines Sdn. Bhd. dba Royal Brunei Airlines","country_or_territory":"Brunei Darussalam","iata":"BI"}
 {"company_name":"Nouvelair Tunisie","country_or_territory":"Tunisia","iata":"BJ"}
@@ -306,8 +310,10 @@
 {"company_name":"Compagnie Africaine d'Aviation","country_or_territory":"Congo,  Democratic Republic of","iata":"BU"}
 {"company_name":"TOKI AIR Co., Ltd.","country_or_territory":"Japan","iata":"BV"}
 {"company_name":"Caribbean Airlines","country_or_territory":"Trinidad and Tobago","iata":"BW"}
+{"company_name":"Caribbean Airlines Limited","country_or_territory":"Trinidad and Tobago","iata":"BW"}
 {"company_name":"Caribbean Airlines Limited dba Caribbean Airlines Ltd.","country_or_territory":"Trinidad and Tobago","iata":"BW"}
 {"company_name":"Air Busan","country_or_territory":"Korea, Republic of","iata":"BX"}
+{"company_name":"Air Busan Co. Ltd","country_or_territory":"Korea, Republic of","iata":"BX"}
 {"company_name":"Tui Airways Limited dba Tui","country_or_territory":"United Kingdom","iata":"BY"}
 {"company_name":"Blue Bird Airways","country_or_territory":"Greece","iata":"BZ"}
 {"company_name":"Blue Dart Aviation Ltd. dba Blue Dart","country_or_territory":"India","iata":"BZ*"}
@@ -334,6 +340,7 @@
 {"company_name":"China Postal Airlines Co., Ltd.","country_or_territory":"China (People's Republic of)","iata":"CF"}
 {"company_name":"China Postal Airlines Co., Ltd.","country_or_territory":"People's Republic of China","iata":"CF"}
 {"company_name":"PNG Air Limited Dba PNG AIR Limited","country_or_territory":"Papua New Guinea","iata":"CG*"}
+{"company_name":"ROYAL AIRWAYS","country_or_territory":"Chad","iata":"CH"}
 {"company_name":"Bemidji Aviation Services, Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"CH*"}
 {"company_name":"China Airlines Ltd.","country_or_territory":"Chinese Taipei","iata":"CI"}
 {"company_name":"BA Cityflyer Limited","country_or_territory":"United Kingdom","iata":"CJ*"}
@@ -430,6 +437,7 @@
 {"company_name":"Emirates","country_or_territory":"United Arab Emirates","iata":"EK"}
 {"company_name":"Empire Airlines, Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"EM"}
 {"company_name":"AIR DOLOMITI S.p.A. LINEE AEREE REGIONALI EUROPEE","country_or_territory":"Italy","iata":"EN"}
+{"company_name":"Air Dolomiti Spa Linee Aeree Regionali Europee","country_or_territory":"Italy","iata":"EN"}
 {"company_name":"LLC \"Aircompany \"Ikar\"","country_or_territory":"Russian Federation","iata":"EO"}
 {"company_name":"Iran Aseman Airlines","country_or_territory":"Iran","iata":"EP"}
 {"company_name":"FLY AO-LINHAS AEREAS, LIMITADA dba FLY ANGOLA","country_or_territory":"Angola","iata":"EQ"}
@@ -437,11 +445,13 @@
 {"company_name":"Estelar Latinoamerica C.A. dba Estelar","country_or_territory":"Venezuela","iata":"ES"}
 {"company_name":"DHL Aviation EEMEA B.S.C.(c)","country_or_territory":"Bahrain","iata":"ES*"}
 {"company_name":"Ethiopian Airlines Group dba Ethiopian Airlines","country_or_territory":"Ethiopia","iata":"ET"}
+{"company_name":"Ethiopian Airlines dba Ethiopian Airlines","country_or_territory":"Ethiopia","iata":"ET"}
 {"company_name":"Chengdu Airlines","country_or_territory":"China (People's Republic of)","iata":"EU"}
 {"company_name":"Chengdu Airlines","country_or_territory":"People's Republic of China","iata":"EU"}
 {"company_name":"Eurowings GmbH","country_or_territory":"Germany","iata":"EW"}
 {"company_name":"Regional Express Americas SAS","country_or_territory":"Colombia","iata":"EX"}
 {"company_name":"Etihad Airways","country_or_territory":"United Arab Emirates","iata":"EY"}
+{"company_name":"Etihad Airways Dba Etihad Airways PJSC","country_or_territory":"United Arab Emirates","iata":"EY"}
 {"company_name":"Etihad Airways dba Etihad","country_or_territory":"United Arab Emirates","iata":"EY"}
 {"company_name":"Sun Air of Scandinavia A.S.","country_or_territory":"Denmark","iata":"EZ*"}
 {"company_name":"Farelogix Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"F1"}
@@ -454,6 +464,7 @@
 {"company_name":"Fly2Sky Ltd.","country_or_territory":"Bulgaria","iata":"F6"}
 {"company_name":"LTD I Fly","country_or_territory":"Russian Federation","iata":"F7"}
 {"company_name":"Flair Airlines Ltd.","country_or_territory":"Canada","iata":"F8"}
+{"company_name":"Flair Airlines Ltd. Dba Flair Air","country_or_territory":"Canada","iata":"F8"}
 {"company_name":"Frontier Airlines, Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"F9"}
 {"company_name":"Safair Operations (Proprietary) Ltd dba Safair/FlySafair","country_or_territory":"South Africa","iata":"FA"}
 {"company_name":"FREEDOM II BERMUDA LIMITED","country_or_territory":"Bermuda","iata":"FA*"}
@@ -465,6 +476,7 @@
 {"company_name":"Airshop B.V.","country_or_territory":"Netherlands","iata":"FF*"}
 {"company_name":"Ariana Afghan Airlines dba Ariana Afghan Airlines","country_or_territory":"Afghanistan","iata":"FG"}
 {"company_name":"Hurkus Havayolu Tasimacilik ve Ticaret A .S.","country_or_territory":"T�rkiye","iata":"FH"}
+{"company_name":"Hurkus Havayolu Tasimacilik ve Ticaret A Freebird Airlines","country_or_territory":"T�rkiye","iata":"FH"}
 {"company_name":"Icelandair ehf.","country_or_territory":"Iceland","iata":"FI"}
 {"company_name":"Air Pacific Limited t/a Fiji Airways","country_or_territory":"Fiji","iata":"FJ"}
 {"company_name":"Kelowna Flightcraft Air Charter Ltd dba KF Cargo","country_or_territory":"Canada","iata":"FK"}
@@ -541,6 +553,7 @@
 {"company_name":"HiSky Europe SRL","country_or_territory":"Romania","iata":"H4"}
 {"company_name":"CM Airlines","country_or_territory":"Honduras","iata":"H5"}
 {"company_name":"VistaJet GmbH","country_or_territory":"Germany","iata":"H5*"}
+{"company_name":"European Air Charter Jsc.","country_or_territory":"Bulgaria","iata":"H6*"}
 {"company_name":"European Air Charter Jsc. dba NIL","country_or_territory":"Bulgaria","iata":"H6*"}
 {"company_name":"CA HiSky SRL","country_or_territory":"Moldova, Republic of","iata":"H7"}
 {"company_name":"Sky Airline Peru S.A.C","country_or_territory":"Peru","iata":"H8"}
@@ -552,6 +565,7 @@
 {"company_name":"One Air Ltd","country_or_territory":"United Kingdom","iata":"HC*"}
 {"company_name":"Airdo Co.,Ltd.","country_or_territory":"Japan","iata":"HD"}
 {"company_name":"Air Cote D'Ivoire","country_or_territory":"Cote d'Ivoire","iata":"HF"}
+{"company_name":"Air Cote d'Ivoire","country_or_territory":"Cote d'Ivoire","iata":"HF"}
 {"company_name":"Hala Air Dba Hala Air","country_or_territory":"Libyan Arab Jamahiriya","iata":"HG"}
 {"company_name":"Hibernian Airlines","country_or_territory":"Ireland","iata":"HG*"}
 {"company_name":"Qanot Sharq LLC","country_or_territory":"Uzbekistan","iata":"HH"}
@@ -630,6 +644,7 @@
 {"company_name":"Jettainer GmbH","country_or_territory":"Germany","iata":"JE*"}
 {"company_name":"OTT AIRLINES CO., LTD","country_or_territory":"China (People's Republic of)","iata":"JF"}
 {"company_name":"OTT AIRLINES CO., LTD","country_or_territory":"People's Republic of China","iata":"JF"}
+{"company_name":"Jiangsu Jingdong Cargo Airlines Co Ltd","country_or_territory":"China (People's Republic of)","iata":"JG"}
 {"company_name":"Jiangsu Jingdong Cargo Airlines Co.","country_or_territory":"China (People's Republic of)","iata":"JG"}
 {"company_name":"Jiangsu Jingdong Cargo Airlines Co.","country_or_territory":"People's Republic of China","iata":"JG"}
 {"company_name":"Airline Container Leasing Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"JG*"}
@@ -649,6 +664,7 @@
 {"company_name":"Joy Air","country_or_territory":"China (People's Republic of)","iata":"JR"}
 {"company_name":"Joy Air","country_or_territory":"People's Republic of China","iata":"JR"}
 {"company_name":"Air Koryo","country_or_territory":"Korea, Democratic People's Republic of","iata":"JS"}
+{"company_name":"PT. LION MENTARI AIRLINES dba Lion Air","country_or_territory":"Indonesia","iata":"JT"}
 {"company_name":"PT. LION MENTARI AIRLINES dba Lion Airlines","country_or_territory":"Indonesia","iata":"JT"}
 {"company_name":"JSC for Air Traffic-Air Serbia Belgrade t/a Air Serbia a.d Beograd","country_or_territory":"Serbia","iata":"JU"}
 {"company_name":"JET UP AVIATION LLC","country_or_territory":"UNITED STATES OF AMERICA","iata":"JU*"}
@@ -672,6 +688,7 @@
 {"company_name":"\"Aero Nomad Airlines\" LLC","country_or_territory":"Kyrgyzstan","iata":"KA"}
 {"company_name":"\"Aero Nomad Airlines\" LLC dba \"Aero Nomad Airlines\" LLC","country_or_territory":"Kyrgyzstan","iata":"KA"}
 {"company_name":"Druk Air Corporation Limited (Royal Bhutan Airlines)","country_or_territory":"Bhutan","iata":"KB"}
+{"company_name":"Drukair Corporation Limited (Royal Bhutan Airlines)","country_or_territory":"Bhutan","iata":"KB"}
 {"company_name":"JSC AIR ASTANA","country_or_territory":"Kazakhstan","iata":"KC"}
 {"company_name":"Western Global Airlines, Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"KD*"}
 {"company_name":"Korean Air Lines Co. Ltd.","country_or_territory":"Korea, Republic of","iata":"KE"}
@@ -735,6 +752,7 @@
 {"company_name":"Transporte Aereo S.A. dba LATAM Airlines Chile","country_or_territory":"Chile","iata":"LU"}
 {"company_name":"Airzena LLC dba Aircompany AIRZENA","country_or_territory":"Georgia","iata":"LV"}
 {"company_name":"Lauda Europe Ltd","country_or_territory":"Malta","iata":"LW"}
+{"company_name":"SWISS Internation Air Lines Ltd","country_or_territory":"Switzerland","iata":"LX"}
 {"company_name":"SWISS International Air Lines Ltd dba SWISS","country_or_territory":"Switzerland","iata":"LX"}
 {"company_name":"EL AL Israel Airlines Ltd Dba EL AL","country_or_territory":"Israel","iata":"LY"}
 {"company_name":"El Al Israel Airlines Ltd. dba EL AL","country_or_territory":"Israel","iata":"LY"}
@@ -776,6 +794,7 @@
 {"company_name":"Egyptair dba Egyptair Airlines","country_or_territory":"Egypt","iata":"MS"}
 {"company_name":"Malta Air Travel Ltd dba Malta MedAir","country_or_territory":"Malta","iata":"MT"}
 {"company_name":"China Eastern Airlines","country_or_territory":"China (People's Republic of)","iata":"MU"}
+{"company_name":"China Eastern Airlines Co Ltd","country_or_territory":"China (People's Republic of)","iata":"MU"}
 {"company_name":"China Eastern Airlines","country_or_territory":"People's Republic of China","iata":"MU"}
 {"company_name":"Air Mediterranean S.A.","country_or_territory":"Greece","iata":"MV"}
 {"company_name":"Malta Air Ltd.","country_or_territory":"Malta","iata":"MW*"}
@@ -813,6 +832,7 @@
 {"company_name":"Nile Air","country_or_territory":"Egypt","iata":"NP"}
 {"company_name":"Air Japan Co., Ltd.","country_or_territory":"Japan","iata":"NQ"}
 {"company_name":"Manta Aviation Pvt Ltd","country_or_territory":"Maldives","iata":"NR"}
+{"company_name":"Hebei Airlines Co. Ltd","country_or_territory":"China (People's Republic of)","iata":"NS"}
 {"company_name":"Hebei Airlines Co., Ltd.","country_or_territory":"China (People's Republic of)","iata":"NS"}
 {"company_name":"Hebei Airlines Co., Ltd.","country_or_territory":"People's Republic of China","iata":"NS"}
 {"company_name":"Binter Canarias","country_or_territory":"Spain","iata":"NT"}
@@ -838,6 +858,7 @@
 {"company_name":"Malindo Airways Sdn Bhd dba Batik Air Malaysia","country_or_territory":"Malaysia","iata":"OD"}
 {"company_name":"Fly One Airlines S.R.L.","country_or_territory":"Romania","iata":"OE"}
 {"company_name":"Overland Airways Limited","country_or_territory":"Nigeria","iata":"OF"}
+{"company_name":"Overland Airways ltd dba Overland Airways ltd","country_or_territory":"Nigeria","iata":"OF"}
 {"company_name":"Fly Play hf.","country_or_territory":"Iceland","iata":"OG"}
 {"company_name":"PSA Airlines, Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"OH"}
 {"company_name":"Hinterland Aviation Pty Ltd","country_or_territory":"Australia","iata":"OI"}
@@ -858,6 +879,7 @@
 {"company_name":"Dronamics Europe Airlines Ltd","country_or_territory":"Malta","iata":"OY"}
 {"company_name":"Omni Air International, Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"OY*"}
 {"company_name":"Asiana Airlines Inc.","country_or_territory":"Korea, Republic of","iata":"OZ"}
+{"company_name":"Asiana Airlines, Inc","country_or_territory":"Korea, Republic of","iata":"OZ"}
 {"company_name":"Proflight Commuter Services Limited dba Proflight  Zambia","country_or_territory":"Zambia","iata":"P0"}
 {"company_name":"AirKenya Express Ltd","country_or_territory":"Kenya","iata":"P2"}
 {"company_name":"Porter Airlines Inc.","country_or_territory":"Canada","iata":"P3"}
@@ -867,6 +889,7 @@
 {"company_name":"9736140 Canada Inc. t/a Pascan","country_or_territory":"Canada","iata":"P6*"}
 {"company_name":"\"Supernova Airlines\" LLC","country_or_territory":"Ukraine","iata":"P7"}
 {"company_name":"Sprintair SA","country_or_territory":"Poland","iata":"P8"}
+{"company_name":"Aero Micronesia Inc.","country_or_territory":"Guam","iata":"P9*"}
 {"company_name":"Aero Micronesia Inc. dba Asia Pacific Airlines","country_or_territory":"Guam","iata":"P9*"}
 {"company_name":"M/S Airblue Limited","country_or_territory":"Pakistan","iata":"PA"}
 {"company_name":"PAL Airlines LTD. dba Provincial Airlines/PAL Airline","country_or_territory":"Canada","iata":"PB"}
@@ -902,6 +925,7 @@
 {"company_name":"Surinaamse Luchtvaart Maatschappij N.V dba Surinam Airways","country_or_territory":"Suriname","iata":"PY"}
 {"company_name":"LATAM Airlines Paraguay","country_or_territory":"Paraguay","iata":"PZ"}
 {"company_name":"Transportes Aereos del Mercosur S.A dba LATAM Airlines Paraguay","country_or_territory":"Paraguay","iata":"PZ"}
+{"company_name":"Transportes A�reos del Mercosur S.A. Dba LATAM Airlines Paraguay S.A.","country_or_territory":"Paraguay","iata":"PZ"}
 {"company_name":"PT. Sqiva Sistem","country_or_territory":"Indonesia","iata":"Q1"}
 {"company_name":"Island Aviation Services Ltd.","country_or_territory":"Maldives","iata":"Q2"}
 {"company_name":"Anguilla Air Services, Ltd","country_or_territory":"Anguilla","iata":"Q3"}
@@ -986,6 +1010,7 @@
 {"company_name":"Sapsan Airlines dba SAPSAN Airline","country_or_territory":"United Arab Emirates","iata":"S2*"}
 {"company_name":"SATCO, INC.","country_or_territory":"UNITED STATES OF AMERICA","iata":"S3"}
 {"company_name":"SATA  Internacional - Azores Airlines, S.A.","country_or_territory":"Portugal","iata":"S4"}
+{"company_name":"Ghodawat Enterprises Private Limited Dba Star Air","country_or_territory":"India","iata":"S5"}
 {"company_name":"Ghodawat Enterprises Pvt.Ltd. dba Star Air","country_or_territory":"India","iata":"S5"}
 {"company_name":"Limited Liability Company \"Abakan Air\" dba \"Abakan Air\"","country_or_territory":"Russian Federation","iata":"S5*"}
 {"company_name":"Sunrise Airways S.A. dba Sunrise Airways","country_or_territory":"Haiti","iata":"S6"}
@@ -1004,6 +1029,7 @@
 {"company_name":"SKY VISION AIRLINES","country_or_territory":"Egypt","iata":"SE*"}
 {"company_name":"Tassili Airlines","country_or_territory":"Algeria","iata":"SF"}
 {"company_name":"SpiceJet Ltd.","country_or_territory":"India","iata":"SG"}
+{"company_name":"Spicejet Ltd dba Spicejet","country_or_territory":"India","iata":"SG"}
 {"company_name":"Sharp Aviation Pty. Ltd t/a Sharp Airlines","country_or_territory":"Australia","iata":"SH"}
 {"company_name":"Blue Islands Limited","country_or_territory":"United Kingdom","iata":"SI"}
 {"company_name":"Sierra Pacific Airlines, Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"SI*"}
@@ -1104,11 +1130,13 @@
 {"company_name":"TATA SIA AIRLINES LTD dba VISTARA","country_or_territory":"India","iata":"UK"}
 {"company_name":"SriLankan Airlines Limited","country_or_territory":"Sri Lanka","iata":"UL"}
 {"company_name":"Air Zimbabwe (Pvt) Ltd.","country_or_territory":"Zimbabwe","iata":"UM"}
+{"company_name":"United Nigeria Airlines Co Ltd dba United Nigeria Airlines","country_or_territory":"Nigeria","iata":"UN"}
 {"company_name":"United Nigeria Airlines Company Ltd dba United Nigeria Airlines","country_or_territory":"Nigeria","iata":"UN"}
 {"company_name":"Business Aviation Asia Limited","country_or_territory":"China (People's Republic of)","iata":"UN*"}
 {"company_name":"Business Aviation Asia Limited","country_or_territory":"People's Republic of China","iata":"UN*"}
 {"company_name":"Hong Kong Express Airways Limited","country_or_territory":"Hong Kong (SAR), China","iata":"UO"}
 {"company_name":"Bahamasair Holdings, Ltd","country_or_territory":"Bahamas","iata":"UP"}
+{"company_name":"Urumqi Air Company Ltd","country_or_territory":"China (People's Republic of)","iata":"UQ"}
 {"company_name":"Urumqi Airlines Co. Ltd.","country_or_territory":"China (People's Republic of)","iata":"UQ"}
 {"company_name":"Urumqi Airlines Co. Ltd.","country_or_territory":"People's Republic of China","iata":"UQ"}
 {"company_name":"Uganda National Airlines Company Limited dba Uganda Airlines","country_or_territory":"Uganda","iata":"UR"}
@@ -1136,8 +1164,11 @@
 {"company_name":"Aeroenlaces Nacionales S.A. de C.V.","country_or_territory":"Mexico","iata":"VB"}
 {"company_name":"Sterling Airways Inc dba Sterling Airways-Aleutian Airways","country_or_territory":"UNITED STATES OF AMERICA","iata":"VC"}
 {"company_name":"CLIC AIR S.A.","country_or_territory":"Colombia","iata":"VE"}
+{"company_name":"Clic Air","country_or_territory":"Colombia","iata":"VE"}
 {"company_name":"AJet Hava Tasimaciligi Anonim Sirke dba Ajet","country_or_territory":"T�rkiye","iata":"VF"}
+{"company_name":"AJet Hava Tasimaciligi Anonim Sirketi dba Ajet","country_or_territory":"T�rkiye","iata":"VF"}
 {"company_name":"Volga-Dnepr Airline Joint Stock","country_or_territory":"Russian Federation","iata":"VI*"}
+{"company_name":"Vietjet Aviation JSC dba Vietjet Aviation JSC","country_or_territory":"Viet Nam","iata":"VJ"}
 {"company_name":"Vietjet Aviation Joint Stock Company dba Vietjet Aviation JSC","country_or_territory":"Viet Nam","iata":"VJ"}
 {"company_name":"FlyForValue Aviation Limited","country_or_territory":"Nigeria","iata":"VK"}
 {"company_name":"Lufthansa City Airlines GmbH","country_or_territory":"Germany","iata":"VL"}
@@ -1170,6 +1201,7 @@
 {"company_name":"Meregrass, Inc.","country_or_territory":"UNITED STATES OF AMERICA","iata":"WC"}
 {"company_name":"Modern Transporte Aereo de Carga SA dba Modern Logistics","country_or_territory":"Brazil","iata":"WD"}
 {"company_name":"Wideroe's Flyveselskap A.S.","country_or_territory":"Norway","iata":"WF"}
+{"company_name":"Sunwing Airline Inc dba Sunwing","country_or_territory":"Canada","iata":"WG"}
 {"company_name":"Sunwing Airlines Inc. dba Sunwing","country_or_territory":"Canada","iata":"WG"}
 {"company_name":"LA NUEVA AEROLINEA, S.A.","country_or_territory":"Panama","iata":"WH"}
 {"company_name":"White Airways S.A.","country_or_territory":"Portugal","iata":"WI"}
@@ -1274,6 +1306,7 @@
 {"company_name":"Shenzhen Airlines","country_or_territory":"China (People's Republic of)","iata":"ZH"}
 {"company_name":"Shenzhen Airlines","country_or_territory":"People's Republic of China","iata":"ZH"}
 {"company_name":"ARINC Direct","country_or_territory":"UNITED STATES OF AMERICA","iata":"ZJ"}
+{"company_name":"Hong Kong-Zhuhai-Macao Bridge Shutt Bus (Hong Kong) Company Limited","country_or_territory":"Hong Kong (SAR), China","iata":"ZK"}
 {"company_name":"Hong Kong-Zhuhai-Macao Bridge Shuttle Bus (Hong Kong) Company Limited","country_or_territory":"Hong Kong (SAR), China","iata":"ZK"}
 {"company_name":"LLC AirCompany ZetAvia dba \"Aircompany ZetAvia\"","country_or_territory":"Ukraine","iata":"ZK*"}
 {"company_name":"REGIONAL EXPRESS PTY LIMITED","country_or_territory":"Australia","iata":"ZL"}
