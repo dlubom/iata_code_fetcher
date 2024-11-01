@@ -1985,6 +1985,7 @@
 {"city_name":"Dugway","airport_name":"Michael AAF","iata":"DPG"}
 {"city_name":"Dipolog","airport_name":"Dipolog Airport","iata":"DPL"}
 {"city_name":"Devonport","airport_name":"Devonport Airport","iata":"DPO"}
+{"city_name":"Madhya Pradesh","airport_name":"Datia","iata":"DPP"}
 {"city_name":"Denpasar-Bali","airport_name":"Ngurah Rai","iata":"DPS"}
 {"city_name":"Deputatsky","airport_name":"Deputatsky Airport","iata":"DPT"}
 {"city_name":"Dumpu","airport_name":"Dumpu Airport","iata":"DPU"}
@@ -2100,6 +2101,7 @@
 {"city_name":"Elenak","airport_name":"Elenak Airport","iata":"EAL"}
 {"city_name":"Nejran","airport_name":"Nejran Airport","iata":"EAM"}
 {"city_name":"Wheatland","airport_name":"Phifer Airfield","iata":"EAN"}
+{"city_name":"Basel/Mulhouse","airport_name":"Metropolitan Area","iata":"EAP"}
 {"city_name":"Mulhouse/Basel","airport_name":"Metropolitan Area","iata":"EAP"}
 {"city_name":"Kearney","airport_name":"Kearney Reg. Airport","iata":"EAR"}
 {"city_name":"San Sebastian","airport_name":"San Sebastian Airport","iata":"EAS"}
@@ -2130,6 +2132,7 @@
 {"city_name":"Newcastle","airport_name":"Mondell Field","iata":"ECS"}
 {"city_name":"Edna Bay","airport_name":"Sea Plane Base","iata":"EDA"}
 {"city_name":"El Debba","airport_name":"El Debba Airport","iata":"EDB"}
+{"city_name":"Austin","airport_name":"Austin Executive","iata":"EDC"}
 {"city_name":"Erldunda","airport_name":"Erldunda Airport","iata":"EDD"}
 {"city_name":"Edenton","airport_name":"Northeastern Regional","iata":"EDE"}
 {"city_name":"Anchorage","airport_name":"Elmendorf AFB","iata":"EDF"}
@@ -2347,6 +2350,7 @@
 {"city_name":"Exmouth","airport_name":"Exmouth Airport","iata":"EXM"}
 {"city_name":"Exeter","airport_name":"Exeter Airport","iata":"EXT"}
 {"city_name":"Zeya","airport_name":"Zeya Airport","iata":"EYA"}
+{"city_name":"Umluj","airport_name":"Shebarah Water Aerodrome","iata":"EYB"}
 {"city_name":"Beloyarsky","airport_name":"Beloyarsky Airport","iata":"EYK"}
 {"city_name":"Yelimane","airport_name":"Yelimane Airport","iata":"EYL"}
 {"city_name":"Yopal","airport_name":"El Alcaravan","iata":"EYP"}
