@@ -710,6 +710,7 @@
 {"city_name":"Buriram","airport_name":"Buriram Airport","iata":"BFV"}
 {"city_name":"Sidi Bel Abbes","airport_name":"Sidi Bel Abbes Airport","iata":"BFW"}
 {"city_name":"Bafoussam","airport_name":"Bafoussam Airport","iata":"BFX"}
+{"city_name":"Bengbu","airport_name":"Bengbu Tenghu","iata":"BFY"}
 {"city_name":"Bucaramanga","airport_name":"Palonegro Intl","iata":"BGA"}
 {"city_name":"Booue","airport_name":"Booue Airport","iata":"BGB"}
 {"city_name":"Braganca","airport_name":"Braganca Airport","iata":"BGC"}
@@ -828,6 +829,7 @@
 {"city_name":"Cleveland","airport_name":"Burke Lakefront","iata":"BKL"}
 {"city_name":"Bakelalan","airport_name":"Bakelalan Airport","iata":"BKM"}
 {"city_name":"Balkanabat","airport_name":"Balkanabat Airport","iata":"BKN"}
+{"city_name":"Jebel","airport_name":"Balkanabat International","iata":"BKN"}
 {"city_name":"Bamako","airport_name":"Senou Intl","iata":"BKO"}
 {"city_name":"Barkly Downs","airport_name":"Barkly Downs Airport","iata":"BKP"}
 {"city_name":"Blackall","airport_name":"Blackall Airport","iata":"BKQ"}
@@ -1352,6 +1354,7 @@
 {"city_name":"Cape Girardeau","airport_name":"Cape Girardeau Reg. Airport","iata":"CGI"}
 {"city_name":"Chingola","airport_name":"Kasompe","iata":"CGJ"}
 {"city_name":"Jakarta","airport_name":"Soekarno-Hatta Intl","iata":"CGK"}
+{"city_name":"Chagual","airport_name":"El Chagual","iata":"CGL"}
 {"city_name":"Camiguin Island","airport_name":"Mambajao","iata":"CGM"}
 {"city_name":"Cologne/Bonn","airport_name":"Cologne/Bonn Airport","iata":"CGN"}
 {"city_name":"Zhengzhou","airport_name":"Xinzheng Intl","iata":"CGO"}
@@ -1868,6 +1871,7 @@
 {"city_name":"Durham Downs","airport_name":"Durham Downs Airport","iata":"DHD"}
 {"city_name":"Abu Dhabi","airport_name":"Al Dhafra AB","iata":"DHF"}
 {"city_name":"Dalnegorsk","airport_name":"Dalnegorsk Airport","iata":"DHG"}
+{"city_name":"Barkol","airport_name":"Balikun Dahe","iata":"DHH"}
 {"city_name":"Dhangarhi","airport_name":"Dhangarhi Airport","iata":"DHI"}
 {"city_name":"Dhala","airport_name":"Dhala Airport","iata":"DHL"}
 {"city_name":"Dharamsala","airport_name":"Kangra","iata":"DHM"}
@@ -6386,6 +6390,7 @@
 {"city_name":"Penglai","airport_name":"Shahekou","iata":"PNJ"}
 {"city_name":"Pontianak","airport_name":"Supadio","iata":"PNK"}
 {"city_name":"Pantelleria","airport_name":"Pantelleria Airport","iata":"PNL"}
+{"city_name":"Nuevo Mundo","airport_name":"Nuevo Mundo","iata":"PNM"}
 {"city_name":"Princeton","airport_name":"Princeton Municipal","iata":"PNN"}
 {"city_name":"Popondetta","airport_name":"Girua","iata":"PNP"}
 {"city_name":"Pune","airport_name":"Lohegaon","iata":"PNQ"}
@@ -8777,6 +8782,7 @@
 {"city_name":"Whiteriver","airport_name":"Whiteriver Airport","iata":"WTR"}
 {"city_name":"Tsiroanomandidy","airport_name":"Tsiroanomandidy Airport","iata":"WTS"}
 {"city_name":"Wantoat","airport_name":"Wantoat Airport","iata":"WTT"}
+{"city_name":"Way Tuba","airport_name":"Gatot Subroto","iata":"WTX"}
 {"city_name":"Whitianga","airport_name":"Whitianga Airport","iata":"WTZ"}
 {"city_name":"Wuhai","airport_name":"Wuhai Airport","iata":"WUA"}
 {"city_name":"Wudinna","airport_name":"Wudinna Airport","iata":"WUD"}
