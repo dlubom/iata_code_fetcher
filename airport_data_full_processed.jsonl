@@ -159,6 +159,7 @@
 {"city_name":"Agnew","airport_name":"Agnew","iata":"AGW"}
 {"city_name":"Agatti Island","airport_name":"Agatti Island Airport","iata":"AGX"}
 {"city_name":"Aggeneys","airport_name":"Aggeneys Airport","iata":"AGZ"}
+{"city_name":"Ambikapur","airport_name":"Maa Mahamaya","iata":"AHA"}
 {"city_name":"Abha","airport_name":"Abha Airport","iata":"AHB"}
 {"city_name":"Herlong","airport_name":"Amedee AAF","iata":"AHC"}
 {"city_name":"Ardmore","airport_name":"Downtown Executive","iata":"AHD"}
@@ -2953,6 +2954,7 @@
 {"city_name":"Sayun","airport_name":"Sayun Airport","iata":"GXF"}
 {"city_name":"Negage","airport_name":"Negage Airport","iata":"GXG"}
 {"city_name":"Xiahe","airport_name":"Gannan Xiahe","iata":"GXH"}
+{"city_name":"Kuala Kurun","airport_name":"Kuala Kurun","iata":"GXM"}
 {"city_name":"Coyhaique","airport_name":"Teniente Vidal","iata":"GXQ"}
 {"city_name":"Yagoua","airport_name":"Yagoua Airport","iata":"GXX"}
 {"city_name":"Greeley","airport_name":"Weld County","iata":"GXY"}
@@ -6607,6 +6609,7 @@
 {"city_name":"Paracatu","airport_name":"Paracatu Airport","iata":"PYT"}
 {"city_name":"Yaviza","airport_name":"Yaviza Airport","iata":"PYV"}
 {"city_name":"Pai","airport_name":"Pai Airport","iata":"PYY"}
+{"city_name":"Pias","airport_name":"Pias","iata":"PYZ"}
 {"city_name":"Paz de Ariporo","airport_name":"Paz de Ariporo Airport","iata":"PZA"}
 {"city_name":"Pietermaritzburg","airport_name":"Pietermaritzburg Airport","iata":"PZB"}
 {"city_name":"Zhob","airport_name":"Zhob Airport","iata":"PZH"}
@@ -8782,6 +8785,7 @@
 {"city_name":"Whiteriver","airport_name":"Whiteriver Airport","iata":"WTR"}
 {"city_name":"Tsiroanomandidy","airport_name":"Tsiroanomandidy Airport","iata":"WTS"}
 {"city_name":"Wantoat","airport_name":"Wantoat Airport","iata":"WTT"}
+{"city_name":"Way Tuba","airport_name":"Gatot Soebroto","iata":"WTX"}
 {"city_name":"Way Tuba","airport_name":"Gatot Subroto","iata":"WTX"}
 {"city_name":"Whitianga","airport_name":"Whitianga Airport","iata":"WTZ"}
 {"city_name":"Wuhai","airport_name":"Wuhai Airport","iata":"WUA"}
