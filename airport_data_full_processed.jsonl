@@ -1834,6 +1834,7 @@
 {"city_name":"Dezful","airport_name":"Dezful Airport","iata":"DEF"}
 {"city_name":"Decorah","airport_name":"Decorah Municipal","iata":"DEH"}
 {"city_name":"Denis Island","airport_name":"Denis Island Airport","iata":"DEI"}
+{"city_name":"Tongren","airport_name":"Tongren Deijang","iata":"DEJ"}
 {"city_name":"Delhi","airport_name":"Indira Gandhi Intl","iata":"DEL"}
 {"city_name":"Dembi Dolo","airport_name":"Dembi Dolo Airport","iata":"DEM"}
 {"city_name":"Denver","airport_name":"Denver Intl.","iata":"DEN"}
@@ -3286,6 +3287,7 @@
 {"city_name":"Hawker","airport_name":"Hawker Airport","iata":"HWK"}
 {"city_name":"Hwange National Park","airport_name":"Hwange National Park Airport","iata":"HWN"}
 {"city_name":"Hollywood","airport_name":"North Perry","iata":"HWO"}
+{"city_name":"Ludhiana","airport_name":"Halwara","iata":"HWR"}
 {"city_name":"Delingha","airport_name":"Delingha Airport","iata":"HXD"}
 {"city_name":"Hay","airport_name":"Hay Airport","iata":"HXX"}
 {"city_name":"Hyannis","airport_name":"Barnstable Municipal","iata":"HYA"}
@@ -3700,6 +3702,7 @@
 {"city_name":"Johannesburg","airport_name":"Metropolitan Area","iata":"JNB"}
 {"city_name":"Johannesburg","airport_name":"O.R. Tambo Int'l","iata":"JNB"}
 {"city_name":"Jining","airport_name":"Da'an","iata":"JNG"}
+{"city_name":"Jiaxing","airport_name":"Jiaxing Nanhu","iata":"JNH"}
 {"city_name":"Junin","airport_name":"Junin Airport","iata":"JNI"}
 {"city_name":"Duqm","airport_name":"Jaaluni","iata":"JNJ"}
 {"city_name":"Juneau","airport_name":"Juneau Intl.","iata":"JNU"}
@@ -5315,6 +5318,7 @@
 {"city_name":"Mui","airport_name":"Mui Airport","iata":"MUJ"}
 {"city_name":"Mauke Island","airport_name":"Mauke Island Airport","iata":"MUK"}
 {"city_name":"Moultrie","airport_name":"Spence","iata":"MUL"}
+{"city_name":"Muli","airport_name":"Muli Airport","iata":"MUM"}
 {"city_name":"Maturin","airport_name":"Jose T. Monagas Intl","iata":"MUN"}
 {"city_name":"Mountain Home","airport_name":"AFB","iata":"MUO"}
 {"city_name":"Mulga Park","airport_name":"Mulga Park Airport","iata":"MUP"}
@@ -8717,6 +8721,7 @@
 {"city_name":"Wora na Yeno","airport_name":"Wora na Yeno Airport","iata":"WNE"}
 {"city_name":"Wenshan","airport_name":"Puzhehei","iata":"WNH"}
 {"city_name":"Wangiwangi Island","airport_name":"Matahora","iata":"WNI"}
+{"city_name":"Weining","airport_name":"Weining Caohai","iata":"WNJ"}
 {"city_name":"Wunnummin Lake","airport_name":"Wunnummin Lake Airport","iata":"WNN"}
 {"city_name":"Naga","airport_name":"Naga Airport","iata":"WNP"}
 {"city_name":"Windorah","airport_name":"Windorah Airport","iata":"WNR"}
