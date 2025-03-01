@@ -554,6 +554,7 @@
 {"city_name":"Kalamazoo/Battle Creek","airport_name":"Kalamazoo/Battle Creek Intl.","iata":"AZO"}
 {"city_name":"Mexico City","airport_name":"Atizapan-Jimenez Cantu","iata":"AZP"}
 {"city_name":"Adrar","airport_name":"Touat","iata":"AZR"}
+{"city_name":"Adrar","airport_name":"Touat - Cheikh Sidi Mohamed Be","iata":"AZR"}
 {"city_name":"Samana","airport_name":"El Catey Intl","iata":"AZS"}
 {"city_name":"Zapatoca","airport_name":"Zapatoca Airport","iata":"AZT"}
 {"city_name":"Ambriz","airport_name":"Ambriz Airport","iata":"AZZ"}
@@ -891,6 +892,7 @@
 {"city_name":"Beaumont/Port Arthur","airport_name":"Beaumont Municipal","iata":"BMT"}
 {"city_name":"Bima","airport_name":"Sultan M. Salahuddin","iata":"BMU"}
 {"city_name":"Buon Ma Thuot","airport_name":"Buon Ma Thuot Airport","iata":"BMV"}
+{"city_name":"Bordj Mokhtar","airport_name":"Bordj Badji Mokhtar","iata":"BMW"}
 {"city_name":"Bordj Mokhtar","airport_name":"Bordj Mokhtar Airport","iata":"BMW"}
 {"city_name":"Big Mountain","airport_name":"Big Mountain Airport","iata":"BMX"}
 {"city_name":"Ile Art","airport_name":"Waala","iata":"BMY"}
@@ -1633,6 +1635,7 @@
 {"city_name":"Castaway Island","airport_name":"SPB","iata":"CST"}
 {"city_name":"Santa Cruz do Sul","airport_name":"Santa Cruz do Sul Airport","iata":"CSU"}
 {"city_name":"Crossville","airport_name":"Memorial-Whitson Field","iata":"CSV"}
+{"city_name":"Cabo San Lucas","airport_name":"Cabo San Lucas Internacional","iata":"CSW"}
 {"city_name":"Changsha","airport_name":"Huanghua International","iata":"CSX"}
 {"city_name":"Cheboksary","airport_name":"Cheboksary Airport","iata":"CSY"}
 {"city_name":"Coronel Suarez","airport_name":"Brigadier Hector Ruiz","iata":"CSZ"}
@@ -1835,6 +1838,7 @@
 {"city_name":"Decorah","airport_name":"Decorah Municipal","iata":"DEH"}
 {"city_name":"Denis Island","airport_name":"Denis Island Airport","iata":"DEI"}
 {"city_name":"Tongren","airport_name":"Tongren Deijang","iata":"DEJ"}
+{"city_name":"Tongren","airport_name":"Tongren Dejiang","iata":"DEJ"}
 {"city_name":"Delhi","airport_name":"Indira Gandhi Intl","iata":"DEL"}
 {"city_name":"Dembi Dolo","airport_name":"Dembi Dolo Airport","iata":"DEM"}
 {"city_name":"Denver","airport_name":"Denver Intl.","iata":"DEN"}
@@ -1901,6 +1905,7 @@
 {"city_name":"Djougou","airport_name":"Djougou Airport","iata":"DJA"}
 {"city_name":"Jambi","airport_name":"Sultan Thaha","iata":"DJB"}
 {"city_name":"Djerba","airport_name":"Zarzis","iata":"DJE"}
+{"city_name":"Djanet","airport_name":"Cheikh Amoud Ben Mokhtar","iata":"DJG"}
 {"city_name":"Djanet","airport_name":"Tiska","iata":"DJG"}
 {"city_name":"Dubai","airport_name":"Jebel Ali SPB","iata":"DJH"}
 {"city_name":"Jayapura","airport_name":"Sentani","iata":"DJJ"}
@@ -2220,6 +2225,7 @@
 {"city_name":"Elelim","airport_name":"Elelim Airport","iata":"ELR"}
 {"city_name":"East London","airport_name":"East London Airport","iata":"ELS"}
 {"city_name":"El-Tor","airport_name":"El-Tor Airport","iata":"ELT"}
+{"city_name":"El Oued","airport_name":"Abd el Kader el Amoudi","iata":"ELU"}
 {"city_name":"El Oued","airport_name":"Guemar","iata":"ELU"}
 {"city_name":"Elfin Cove","airport_name":"Sea Plane Base","iata":"ELV"}
 {"city_name":"Ellamar","airport_name":"Sea Plane Base","iata":"ELW"}
@@ -2713,6 +2719,7 @@
 {"city_name":"George Town","airport_name":"Exuma International","iata":"GGT"}
 {"city_name":"Glasgow","airport_name":"Glasgow Intl.","iata":"GGW"}
 {"city_name":"Ghardaia","airport_name":"Noumerat","iata":"GHA"}
+{"city_name":"Ghardaia","airport_name":"Noumerate - Mofdi Zakaria","iata":"GHA"}
 {"city_name":"Governor's Harbour","airport_name":"Governor's Harbour Airport","iata":"GHB"}
 {"city_name":"Great Harbour Cay","airport_name":"Great Harbour Cay Airport","iata":"GHC"}
 {"city_name":"Garachine","airport_name":"Garachine Airport","iata":"GHE"}
@@ -3138,6 +3145,7 @@
 {"city_name":"Khanty-Mansiysk","airport_name":"Khanty-Mansiysk Airport","iata":"HMA"}
 {"city_name":"Sohag","airport_name":"Sohag Intl.","iata":"HMB"}
 {"city_name":"Hassi Messaoud","airport_name":"Oued Irara","iata":"HME"}
+{"city_name":"Hassi Messaoud","airport_name":"Oued Irara - Krim Belkacem","iata":"HME"}
 {"city_name":"Hermannsburg","airport_name":"Hermannsburg Airport","iata":"HMG"}
 {"city_name":"Hami","airport_name":"Hami Airport","iata":"HMI"}
 {"city_name":"Khmelnytskyi","airport_name":"Khmelnytskyi Intl.","iata":"HMJ"}
@@ -3399,6 +3407,7 @@
 {"city_name":"Jacksonville","airport_name":"Jacksonville Municipal","iata":"IJX"}
 {"city_name":"Tehran","airport_name":"Imam Khomeini Intl","iata":"IKA"}
 {"city_name":"Wilkesboro","airport_name":"Wilkes County","iata":"IKB"}
+{"city_name":"Karakol","airport_name":"Karakol International","iata":"IKG"}
 {"city_name":"Iki","airport_name":"Iki Airport","iata":"IKI"}
 {"city_name":"Kankakee","airport_name":"Greater Kankakee","iata":"IKK"}
 {"city_name":"Ikela","airport_name":"Ikela Airport","iata":"IKL"}
@@ -4595,6 +4604,7 @@
 {"city_name":"Lagos de Moreno","airport_name":"F. Primo de Verdad","iata":"LOM"}
 {"city_name":"London","airport_name":"Metropolitan Area","iata":"LON"}
 {"city_name":"Laghouat","airport_name":"L'Mekrareg","iata":"LOO"}
+{"city_name":"Laghouat","airport_name":"Moulay Ahmed Medeghri","iata":"LOO"}
 {"city_name":"Praya","airport_name":"Lombok International","iata":"LOP"}
 {"city_name":"Lobatse","airport_name":"Lobatse Airport","iata":"LOQ"}
 {"city_name":"Lagos","airport_name":"Murtala Muhammed Intl","iata":"LOS"}
@@ -5455,6 +5465,7 @@
 {"city_name":"Mazatlan","airport_name":"Rafael Buelna Intl","iata":"MZT"}
 {"city_name":"Muzaffarpur","airport_name":"Muzaffarpur Airport","iata":"MZU"}
 {"city_name":"Mulu","airport_name":"Mulu Airport","iata":"MZV"}
+{"city_name":"Mecheria","airport_name":"Cheikh Bouamama","iata":"MZW"}
 {"city_name":"Mecheria","airport_name":"Mecheria Airport","iata":"MZW"}
 {"city_name":"Mena","airport_name":"Mena Airport","iata":"MZX"}
 {"city_name":"Mossel Bay","airport_name":"Mossel Bay Airport","iata":"MZY"}
@@ -7838,6 +7849,7 @@
 {"city_name":"Tibu","airport_name":"Tibu Airport","iata":"TIB"}
 {"city_name":"Tinak Island","airport_name":"Tinak Island Airport","iata":"TIC"}
 {"city_name":"Tiaret","airport_name":"Bou Chekif","iata":"TID"}
+{"city_name":"Tiaret","airport_name":"Bou Chekif - Abdelhafid Bousou","iata":"TID"}
 {"city_name":"Tippi","airport_name":"Tippi Airport","iata":"TIE"}
 {"city_name":"Taif","airport_name":"Taif Airport","iata":"TIF"}
 {"city_name":"Tingwon","airport_name":"Tingwon Airport","iata":"TIG"}
@@ -7943,6 +7955,7 @@
 {"city_name":"Tampere","airport_name":"Tampere-Pirkkala","iata":"TMP"}
 {"city_name":"Tambao","airport_name":"Tambao Airport","iata":"TMQ"}
 {"city_name":"Tamanrasset","airport_name":"Aguenar","iata":"TMR"}
+{"city_name":"Tamanrasset","airport_name":"Aguenar - Hadj Bey Akhamok","iata":"TMR"}
 {"city_name":"Sao Tome","airport_name":"Sao Tome Intl.","iata":"TMS"}
 {"city_name":"Trombetas","airport_name":"Trombetas Airport","iata":"TMT"}
 {"city_name":"Tambor","airport_name":"Tambor Airport","iata":"TMU"}
@@ -8571,6 +8584,7 @@
 {"city_name":"Malvinas","airport_name":"Malvinas Airport","iata":"VVN"}
 {"city_name":"Vladivostok","airport_name":"Knevichi","iata":"VVO"}
 {"city_name":"Illizi","airport_name":"Takhamalt","iata":"VVZ"}
+{"city_name":"Illizi","airport_name":"Takhamalt - Ibrahim Ghouma","iata":"VVZ"}
 {"city_name":"Lichinga","airport_name":"Lichinga Airport","iata":"VXC"}
 {"city_name":"Sao Vicente Island","airport_name":"Sao Pedro","iata":"VXE"}
 {"city_name":"Vaxjo","airport_name":"Smaland","iata":"VXO"}
