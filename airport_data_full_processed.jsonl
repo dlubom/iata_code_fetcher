@@ -4637,6 +4637,7 @@
 {"city_name":"Long Apung","airport_name":"Long Apung Airport","iata":"LPU"}
 {"city_name":"Liepaja","airport_name":"Liepaja Intl.","iata":"LPX"}
 {"city_name":"Le Puy","airport_name":"Loudes","iata":"LPY"}
+{"city_name":"San Gil","airport_name":"Los Pozos","iata":"LPZ"}
 {"city_name":"Pickens","airport_name":"Pickens County","iata":"LQK"}
 {"city_name":"Puerto Leguizamo","airport_name":"Caucaya","iata":"LQM"}
 {"city_name":"Qalah-ye Now","airport_name":"Qalah-ye Now Airport","iata":"LQN"}
@@ -9497,6 +9498,7 @@
 {"city_name":"San Salvador","airport_name":"Cockburn Town","iata":"ZSA"}
 {"city_name":"St-Pierre","airport_name":"Pierrefonds","iata":"ZSE"}
 {"city_name":"Sandy Lake","airport_name":"Sandy Lake Airport","iata":"ZSJ"}
+{"city_name":"Shiyan","airport_name":"Zhushan Majiadu Airport","iata":"ZSP"}
 {"city_name":"Sassandra","airport_name":"Sassandra Airport","iata":"ZSS"}
 {"city_name":"Stewart","airport_name":"Stewart Airport","iata":"ZST"}
 {"city_name":"Prince Rupert","airport_name":"Seal Cove SPB","iata":"ZSW"}
